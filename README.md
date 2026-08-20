@@ -166,8 +166,8 @@ python -m http.server 8000
 - `vocab.json`：全部单词数据
 - `extracted_vocab/`：按歌曲提取的单词 JSON
 - `audio/words/*.mp3`：日语单词发音（由 `edge-tts` 生成）
-- `gen_word_audio.py`：批量生成缺失的单词发音
-- `merge_extracted_vocab.py`：合并新提取词汇并同步到 `vocab.json` 与 `index.html`
+
+> 维护用 Python 脚本（如 `gen_word_audio.py`、`merge_extracted_vocab.py`）仅保存在本地，不随仓库发布。
 
 ## 免责声明
 
