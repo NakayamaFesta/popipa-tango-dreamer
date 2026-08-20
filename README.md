@@ -162,6 +162,7 @@ python -m http.server 8000
 ## 数据与脚本
 
 - `index.html`：单文件网页，内嵌词表与歌词数据
+- `lyrics/`：歌词源文件（Markdown）
 - `vocab.json`：全部单词数据
 - `extracted_vocab/`：按歌曲提取的单词 JSON
 - `audio/words/*.mp3`：日语单词发音（由 `edge-tts` 生成）
