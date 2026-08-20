@@ -1,0 +1,294 @@
+[
+ {
+  "word": "未来",
+  "reading": "みらい",
+  "meaning": "未来，歌词中指终将抵达的明天"
+ },
+ {
+  "word": "着く",
+  "reading": "つく",
+  "meaning": "到达、抵达"
+ },
+ {
+  "word": "遊ぶ",
+  "reading": "あそぶ",
+  "meaning": "玩耍、嬉戏"
+ },
+ {
+  "word": "ミュージック",
+  "reading": "みゅーじっく",
+  "meaning": "音乐（外来语 music）"
+ },
+ {
+  "word": "聴かせる",
+  "reading": "きかせる",
+  "meaning": "让……听、给……听"
+ },
+ {
+  "word": "憧れ",
+  "reading": "あこがれ",
+  "meaning": "憧憬、向往（的事物）"
+ },
+ {
+  "word": "叶う",
+  "reading": "かなう",
+  "meaning": "（愿望）实现、达成"
+ },
+ {
+  "word": "自由",
+  "reading": "じゆう",
+  "meaning": "自由"
+ },
+ {
+  "word": "眩しい",
+  "reading": "まぶしい",
+  "meaning": "耀眼、炫目"
+ },
+ {
+  "word": "迷子",
+  "reading": "まいご",
+  "meaning": "迷路（的人）"
+ },
+ {
+  "word": "追いかける",
+  "reading": "おいかける",
+  "meaning": "追赶、追逐"
+ },
+ {
+  "word": "追いつく",
+  "reading": "おいつく",
+  "meaning": "追上、赶上"
+ },
+ {
+  "word": "触れる",
+  "reading": "ふれる",
+  "meaning": "触碰、触及"
+ },
+ {
+  "word": "映る",
+  "reading": "うつる",
+  "meaning": "映入、映照"
+ },
+ {
+  "word": "新世界",
+  "reading": "しんせかい",
+  "meaning": "新世界"
+ },
+ {
+  "word": "初めて",
+  "reading": "はじめて",
+  "meaning": "第一次、初次"
+ },
+ {
+  "word": "ばっかり",
+  "reading": "ばっかり",
+  "meaning": "净是、全是（口语说法）"
+ },
+ {
+  "word": "ワクワク",
+  "reading": "わくわく",
+  "meaning": "兴奋不已、雀跃期待"
+ },
+ {
+  "word": "止まる",
+  "reading": "とまる",
+  "meaning": "停止、停下"
+ },
+ {
+  "word": "未知",
+  "reading": "みち",
+  "meaning": "未知"
+ },
+ {
+  "word": "夢見る",
+  "reading": "ゆめみる",
+  "meaning": "做梦；憧憬、心怀梦想"
+ },
+ {
+  "word": "めいっぱい",
+  "reading": "めいっぱい",
+  "meaning": "最大限度地、满满地"
+ },
+ {
+  "word": "好奇心",
+  "reading": "こうきしん",
+  "meaning": "好奇心"
+ },
+ {
+  "word": "集める",
+  "reading": "あつめる",
+  "meaning": "收集、汇聚"
+ },
+ {
+  "word": "全力",
+  "reading": "ぜんりょく",
+  "meaning": "全力"
+ },
+ {
+  "word": "歌う",
+  "reading": "うたう",
+  "meaning": "唱歌"
+ },
+ {
+  "word": "深呼吸",
+  "reading": "しんこきゅう",
+  "meaning": "深呼吸"
+ },
+ {
+  "word": "ときめき",
+  "reading": "ときめき",
+  "meaning": "心动、悸动"
+ },
+ {
+  "word": "続く",
+  "reading": "つづく",
+  "meaning": "继续、延续"
+ },
+ {
+  "word": "ドキドキ",
+  "reading": "どきどき",
+  "meaning": "心怦怦跳、紧张兴奋"
+ },
+ {
+  "word": "〜らしい",
+  "reading": "らしい",
+  "meaning": "具有……的风格、像……的样子",
+  "note": "惯用表达"
+ },
+ {
+  "word": "音",
+  "reading": "おと",
+  "meaning": "声音、音色"
+ },
+ {
+  "word": "走り続ける",
+  "reading": "はしりつづける",
+  "meaning": "持续奔跑、一路跑下去"
+ },
+ {
+  "word": "奏でる",
+  "reading": "かなでる",
+  "meaning": "演奏、奏响"
+ },
+ {
+  "word": "解ける",
+  "reading": "とける",
+  "meaning": "解开、解出（题目）"
+ },
+ {
+  "word": "方程式",
+  "reading": "ほうていしき",
+  "meaning": "方程式"
+ },
+ {
+  "word": "チャレンジ",
+  "reading": "ちゃれんじ",
+  "meaning": "挑战（外来语 challenge）"
+ },
+ {
+  "word": "目指す",
+  "reading": "めざす",
+  "meaning": "以……为目标、追求"
+ },
+ {
+  "word": "ステージ",
+  "reading": "すてーじ",
+  "meaning": "舞台（外来语 stage）"
+ },
+ {
+  "word": "素敵",
+  "reading": "すてき",
+  "meaning": "很棒、极好"
+ },
+ {
+  "word": "本当",
+  "reading": "ほんとう",
+  "meaning": "真的、真实"
+ },
+ {
+  "word": "新しい",
+  "reading": "あたらしい",
+  "meaning": "新的、崭新的"
+ },
+ {
+  "word": "出会い",
+  "reading": "であい",
+  "meaning": "相遇、邂逅"
+ },
+ {
+  "word": "嘘",
+  "reading": "うそ",
+  "meaning": "谎言；歌词中表示难以置信"
+ },
+ {
+  "word": "別世界",
+  "reading": "べつせかい",
+  "meaning": "另一个世界、别样的天地"
+ },
+ {
+  "word": "思わず",
+  "reading": "おもわず",
+  "meaning": "不由得、下意识地"
+ },
+ {
+  "word": "胸",
+  "reading": "むね",
+  "meaning": "胸口、内心"
+ },
+ {
+  "word": "胸がキュンとする",
+  "reading": "むねがきゅんとする",
+  "meaning": "心里猛地一动、怦然心动",
+  "note": "惯用表达"
+ },
+ {
+  "word": "心",
+  "reading": "こころ",
+  "meaning": "心、内心"
+ },
+ {
+  "word": "ドア",
+  "reading": "どあ",
+  "meaning": "门（外来语 door）"
+ },
+ {
+  "word": "向こう",
+  "reading": "むこう",
+  "meaning": "对面、那一方"
+ },
+ {
+  "word": "無限",
+  "reading": "むげん",
+  "meaning": "无限"
+ },
+ {
+  "word": "時",
+  "reading": "とき",
+  "meaning": "时间、时光"
+ },
+ {
+  "word": "秒",
+  "reading": "びょう",
+  "meaning": "秒（时间单位）"
+ },
+ {
+  "word": "過ぎ去る",
+  "reading": "すぎさる",
+  "meaning": "流逝、过去"
+ },
+ {
+  "word": "場所",
+  "reading": "とこ",
+  "meaning": "地方（歌词中唱作口语读法 toko）"
+ },
+ {
+  "word": "楽しい",
+  "reading": "たのしい",
+  "meaning": "快乐、开心"
+ },
+ {
+  "word": "ずっと",
+  "reading": "ずっと",
+  "meaning": "一直、始终"
+ }
+]

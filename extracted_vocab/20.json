@@ -1,0 +1,281 @@
+[
+ {
+  "word": "女の子",
+  "reading": "おんなのこ",
+  "meaning": "女孩子"
+ },
+ {
+  "word": "心臓",
+  "reading": "はーと",
+  "meaning": "心脏（歌词中唱作 Heart）"
+ },
+ {
+  "word": "どきどき",
+  "reading": "どきどき",
+  "meaning": "心跳加速、怦怦跳（拟态词）"
+ },
+ {
+  "word": "関係",
+  "reading": "かんけい",
+  "meaning": "关系（歌词中写作カンケイ）"
+ },
+ {
+  "word": "関係性",
+  "reading": "かんけいせい",
+  "meaning": "彼此间的关系性质（歌词中写作カンケイセイ）"
+ },
+ {
+  "word": "ライバル",
+  "reading": "らいばる",
+  "meaning": "竞争对手（rival）"
+ },
+ {
+  "word": "負ける",
+  "reading": "まける",
+  "meaning": "输、败北"
+ },
+ {
+  "word": "違う",
+  "reading": "ちがう",
+  "meaning": "不同、不一样"
+ },
+ {
+  "word": "道",
+  "reading": "みち",
+  "meaning": "道路；人生之路"
+ },
+ {
+  "word": "同じ",
+  "reading": "おなじ",
+  "meaning": "相同、一样"
+ },
+ {
+  "word": "夢",
+  "reading": "ゆめ",
+  "meaning": "梦想、梦"
+ },
+ {
+  "word": "苦しい",
+  "reading": "くるしい",
+  "meaning": "痛苦、难受"
+ },
+ {
+  "word": "思う",
+  "reading": "おもう",
+  "meaning": "想起、思念"
+ },
+ {
+  "word": "泣く",
+  "reading": "なく",
+  "meaning": "哭、流泪"
+ },
+ {
+  "word": "一緒に",
+  "reading": "いっしょに",
+  "meaning": "一起、一同"
+ },
+ {
+  "word": "考える",
+  "reading": "かんがえる",
+  "meaning": "思考、考虑"
+ },
+ {
+  "word": "気がする",
+  "reading": "きがする",
+  "meaning": "感觉好像、总觉得",
+  "note": "惯用表达"
+ },
+ {
+  "word": "進む",
+  "reading": "すすむ",
+  "meaning": "前进、向前迈进"
+ },
+ {
+  "word": "ぶつかる",
+  "reading": "ぶつかる",
+  "meaning": "碰撞、冲突"
+ },
+ {
+  "word": "磨き合う",
+  "reading": "みがきあう",
+  "meaning": "相互磨砺、共同精进"
+ },
+ {
+  "word": "美しい",
+  "reading": "うつくしい",
+  "meaning": "美丽、美好"
+ },
+ {
+  "word": "覚悟を決める",
+  "reading": "かくごをきめる",
+  "meaning": "下定决心、做好觉悟",
+  "note": "惯用表达"
+ },
+ {
+  "word": "名前",
+  "reading": "なまえ",
+  "meaning": "名字、名称"
+ },
+ {
+  "word": "バチバチ",
+  "reading": "ばちばち",
+  "meaning": "噼里啪啦；火花四溅般针锋相对"
+ },
+ {
+  "word": "常在戦場",
+  "reading": "じょうざいせんじょう",
+  "meaning": "时刻身处战场（四字成语）"
+ },
+ {
+  "word": "戦う",
+  "reading": "たたかう",
+  "meaning": "战斗、较量"
+ },
+ {
+  "word": "舞台袖",
+  "reading": "ぶたいそで",
+  "meaning": "舞台侧幕、台侧候场处"
+ },
+ {
+  "word": "スタンバイ",
+  "reading": "すたんばい",
+  "meaning": "就位、待命（standby）"
+ },
+ {
+  "word": "緊張",
+  "reading": "きんちょう",
+  "meaning": "紧张"
+ },
+ {
+  "word": "マキシマム",
+  "reading": "まきしまむ",
+  "meaning": "最大、极限（maximum）"
+ },
+ {
+  "word": "怯む",
+  "reading": "ひるむ",
+  "meaning": "胆怯、退缩"
+ },
+ {
+  "word": "声",
+  "reading": "こえ",
+  "meaning": "声音"
+ },
+ {
+  "word": "聴く",
+  "reading": "きく",
+  "meaning": "倾听、用心听"
+ },
+ {
+  "word": "勇気",
+  "reading": "ゆうき",
+  "meaning": "勇气"
+ },
+ {
+  "word": "あふれる",
+  "reading": "あふれる",
+  "meaning": "满溢、充满"
+ },
+ {
+  "word": "振り向く",
+  "reading": "ふりむく",
+  "meaning": "回头、转身"
+ },
+ {
+  "word": "目と目が合う",
+  "reading": "めとめがあう",
+  "meaning": "四目相对、目光相遇",
+  "note": "惯用表达"
+ },
+ {
+  "word": "気がつく",
+  "reading": "きがつく",
+  "meaning": "察觉、意识到",
+  "note": "惯用表达"
+ },
+ {
+  "word": "合わせる",
+  "reading": "あわせる",
+  "meaning": "合在一起、并拢"
+ },
+ {
+  "word": "唄",
+  "reading": "うた",
+  "meaning": "歌、歌曲"
+ },
+ {
+  "word": "歌う",
+  "reading": "うたう",
+  "meaning": "唱歌、歌唱"
+ },
+ {
+  "word": "立ち上がる",
+  "reading": "たちあがる",
+  "meaning": "站起身、奋起"
+ },
+ {
+  "word": "駆け引き",
+  "reading": "かけひき",
+  "meaning": "进退策略、讨价还价"
+ },
+ {
+  "word": "苦手",
+  "reading": "にがて",
+  "meaning": "不擅长、对付不了"
+ },
+ {
+  "word": "真っ向勝負",
+  "reading": "まっこうしょうぶ",
+  "meaning": "正面决胜负、堂堂正正较量"
+ },
+ {
+  "word": "ガチガチ",
+  "reading": "がちがち",
+  "meaning": "硬碰硬、动真格较劲"
+ },
+ {
+  "word": "女子",
+  "reading": "じょし",
+  "meaning": "女孩子、女生"
+ },
+ {
+  "word": "夢見る",
+  "reading": "ゆめみる",
+  "meaning": "做梦、怀抱梦想"
+ },
+ {
+  "word": "交わる",
+  "reading": "まじわる",
+  "meaning": "相交、交汇"
+ },
+ {
+  "word": "いつか",
+  "reading": "いつか",
+  "meaning": "总有一天、终有一日"
+ },
+ {
+  "word": "うねり",
+  "reading": "うねり",
+  "meaning": "浪潮、汹涌的起伏"
+ },
+ {
+  "word": "弾ける",
+  "reading": "はじける",
+  "meaning": "迸裂、绽放、飞溅"
+ },
+ {
+  "word": "鮮やか",
+  "reading": "あざやか",
+  "meaning": "鲜艳、鲜明"
+ },
+ {
+  "word": "染まる",
+  "reading": "そまる",
+  "meaning": "染上颜色、浸染"
+ },
+ {
+  "word": "色",
+  "reading": "いろ",
+  "meaning": "颜色；特色"
+ }
+]

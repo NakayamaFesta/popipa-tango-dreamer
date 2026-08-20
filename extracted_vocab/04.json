@@ -1,0 +1,377 @@
+[
+ {
+  "word": "絶対",
+  "reading": "ぜったい",
+  "meaning": "绝对、一定"
+ },
+ {
+  "word": "泣く",
+  "reading": "なく",
+  "meaning": "哭泣"
+ },
+ {
+  "word": "普段",
+  "reading": "ふだん",
+  "meaning": "平时、平常"
+ },
+ {
+  "word": "しゅっと",
+  "reading": "しゅっと",
+  "meaning": "俏皮利落的样子（拟态词）"
+ },
+ {
+  "word": "おっとり",
+  "reading": "おっとり",
+  "meaning": "温顺、从容、文静"
+ },
+ {
+  "word": "クール",
+  "reading": "くーる",
+  "meaning": "冷静、酷"
+ },
+ {
+  "word": "ギャップ萌え",
+  "reading": "ぎゃっぷもえ",
+  "meaning": "反差萌，因反差而显得可爱"
+ },
+ {
+  "word": "ダダをこねる",
+  "reading": "ダダをこねる",
+  "meaning": "撒娇耍赖、耍性子",
+  "note": "惯用表达"
+ },
+ {
+  "word": "仕草",
+  "reading": "しぐさ",
+  "meaning": "举止、动作、姿态"
+ },
+ {
+  "word": "予想",
+  "reading": "よそう",
+  "meaning": "预想、预料"
+ },
+ {
+  "word": "超える",
+  "reading": "こえる",
+  "meaning": "超出、超过"
+ },
+ {
+  "word": "可愛い",
+  "reading": "かわいい",
+  "meaning": "可爱的"
+ },
+ {
+  "word": "ほっとけない",
+  "reading": "ほっとけない",
+  "meaning": "放不下心、不能置之不理（放っておけない的口语）",
+  "note": "惯用表达"
+ },
+ {
+  "word": "タイプ",
+  "reading": "たいぷ",
+  "meaning": "类型"
+ },
+ {
+  "word": "バニー",
+  "reading": "ばにー",
+  "meaning": "小兔子（bunny）"
+ },
+ {
+  "word": "泣き出す",
+  "reading": "なきだす",
+  "meaning": "哭出来、开始哭"
+ },
+ {
+  "word": "怖い",
+  "reading": "こわい",
+  "meaning": "可怕的、吓人的"
+ },
+ {
+  "word": "逃げる",
+  "reading": "にげる",
+  "meaning": "逃跑、逃避"
+ },
+ {
+  "word": "我慢",
+  "reading": "がまん",
+  "meaning": "忍耐、忍受"
+ },
+ {
+  "word": "耳",
+  "reading": "みみ",
+  "meaning": "耳朵"
+ },
+ {
+  "word": "つんざく",
+  "reading": "つんざく",
+  "meaning": "震耳欲聋、刺耳"
+ },
+ {
+  "word": "金属音",
+  "reading": "きんぞくおん",
+  "meaning": "金属声"
+ },
+ {
+  "word": "忍び寄る",
+  "reading": "しのびよる",
+  "meaning": "悄悄逼近、偷偷靠近"
+ },
+ {
+  "word": "銀",
+  "reading": "ぎん",
+  "meaning": "银、银色"
+ },
+ {
+  "word": "ドリル",
+  "reading": "どりる",
+  "meaning": "钻头"
+ },
+ {
+  "word": "にかっと",
+  "reading": "にかっと",
+  "meaning": "呲牙一笑、咧嘴笑"
+ },
+ {
+  "word": "笑う",
+  "reading": "わらう",
+  "meaning": "笑"
+ },
+ {
+  "word": "殺人医師",
+  "reading": "さつじんいし",
+  "meaning": "杀人医生"
+ },
+ {
+  "word": "結局",
+  "reading": "けっきょく",
+  "meaning": "最终、结果、说到底"
+ },
+ {
+  "word": "参った",
+  "reading": "まいった",
+  "meaning": "认输了、受不了、服了",
+  "note": "惯用表达"
+ },
+ {
+  "word": "君次第",
+  "reading": "きみしだい",
+  "meaning": "取决于你、全看你",
+  "note": "惯用表达"
+ },
+ {
+  "word": "そば",
+  "reading": "そば",
+  "meaning": "身边、旁边"
+ },
+ {
+  "word": "弱さ",
+  "reading": "よわさ",
+  "meaning": "软弱、弱点"
+ },
+ {
+  "word": "見せる",
+  "reading": "みせる",
+  "meaning": "给……看、展示"
+ },
+ {
+  "word": "名前",
+  "reading": "なまえ",
+  "meaning": "名字"
+ },
+ {
+  "word": "呼ぶ",
+  "reading": "よぶ",
+  "meaning": "呼喊、叫名字"
+ },
+ {
+  "word": "ぎゅっと",
+  "reading": "ぎゅっと",
+  "meaning": "紧紧地（握、抱）"
+ },
+ {
+  "word": "握る",
+  "reading": "にぎる",
+  "meaning": "握紧、握住"
+ },
+ {
+  "word": "離す",
+  "reading": "はなす",
+  "meaning": "松开、放开"
+ },
+ {
+  "word": "一生",
+  "reading": "いっしょう",
+  "meaning": "一辈子、终生"
+ },
+ {
+  "word": "半端ない",
+  "reading": "はんぱない",
+  "meaning": "非同一般、厉害得离谱（口语）"
+ },
+ {
+  "word": "痛み",
+  "reading": "いたみ",
+  "meaning": "疼痛、痛楚"
+ },
+ {
+  "word": "なりふり構わず",
+  "reading": "なりふりかまわず",
+  "meaning": "不顾形象、不顾一切",
+  "note": "惯用表达"
+ },
+ {
+  "word": "人生",
+  "reading": "じんせい",
+  "meaning": "人生"
+ },
+ {
+  "word": "修羅場",
+  "reading": "しゅらば",
+  "meaning": "修罗场、惨烈的场面"
+ },
+ {
+  "word": "覚悟",
+  "reading": "かくご",
+  "meaning": "觉悟、心理准备"
+ },
+ {
+  "word": "極限状態",
+  "reading": "きょくげんじょうたい",
+  "meaning": "极限状态"
+ },
+ {
+  "word": "この世",
+  "reading": "このよ",
+  "meaning": "人世间、这个世界"
+ },
+ {
+  "word": "終わり",
+  "reading": "おわり",
+  "meaning": "终结、末日"
+ },
+ {
+  "word": "顔",
+  "reading": "かお",
+  "meaning": "脸、表情"
+ },
+ {
+  "word": "甘い",
+  "reading": "あまい",
+  "meaning": "甜的"
+ },
+ {
+  "word": "泣いてばっかじゃ始まらない",
+  "reading": "ないてばっかじゃはじまらない",
+  "meaning": "光顾着哭是无法开始的",
+  "note": "惯用表达"
+ },
+ {
+  "word": "上の空",
+  "reading": "うわのそら",
+  "meaning": "心不在焉、走神",
+  "note": "惯用表达"
+ },
+ {
+  "word": "命",
+  "reading": "いのち",
+  "meaning": "生命、性命"
+ },
+ {
+  "word": "命あっての物種",
+  "reading": "いのちあってのものだね",
+  "meaning": "有命在才有希望、留得青山在（谚语）",
+  "note": "惯用表达"
+ },
+ {
+  "word": "痛いの飛んでけ",
+  "reading": "いたいのとんでけ",
+  "meaning": "疼痛快飞走吧（哄孩子的咒语）",
+  "note": "惯用表达"
+ },
+ {
+  "word": "最後",
+  "reading": "さいご",
+  "meaning": "最后"
+ },
+ {
+  "word": "逃げ出す",
+  "reading": "にげだす",
+  "meaning": "逃出、逃走"
+ },
+ {
+  "word": "乗り越える",
+  "reading": "のりこえる",
+  "meaning": "克服、跨越（困难）"
+ },
+ {
+  "word": "強さ",
+  "reading": "つよさ",
+  "meaning": "坚强、强大"
+ },
+ {
+  "word": "ついていく",
+  "reading": "ついていく",
+  "meaning": "跟上、跟随"
+ },
+ {
+  "word": "ぬくもり",
+  "reading": "ぬくもり",
+  "meaning": "温暖、体温"
+ },
+ {
+  "word": "忘れる",
+  "reading": "わすれる",
+  "meaning": "忘记"
+ },
+ {
+  "word": "永遠",
+  "reading": "えいえん",
+  "meaning": "永远"
+ },
+ {
+  "word": "試練",
+  "reading": "しれん",
+  "meaning": "考验、磨难"
+ },
+ {
+  "word": "旅",
+  "reading": "たび",
+  "meaning": "旅行、旅程"
+ },
+ {
+  "word": "旅に出る",
+  "reading": "たびにでる",
+  "meaning": "踏上旅程、出发旅行",
+  "note": "惯用表达"
+ },
+ {
+  "word": "準備",
+  "reading": "じゅんび",
+  "meaning": "准备"
+ },
+ {
+  "word": "思い出",
+  "reading": "おもいで",
+  "meaning": "回忆"
+ },
+ {
+  "word": "最期",
+  "reading": "さいご",
+  "meaning": "临终、生命的最后时刻"
+ },
+ {
+  "word": "一緒",
+  "reading": "いっしょ",
+  "meaning": "一起、一同"
+ },
+ {
+  "word": "手",
+  "reading": "て",
+  "meaning": "手"
+ },
+ {
+  "word": "悪くない",
+  "reading": "わるくない",
+  "meaning": "也不错、没什么不好"
+ }
+]

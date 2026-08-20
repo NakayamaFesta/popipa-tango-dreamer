@@ -1,0 +1,361 @@
+[
+ {
+  "word": "生まれる",
+  "reading": "うまれる",
+  "meaning": "出生、诞生"
+ },
+ {
+  "word": "場所",
+  "reading": "ばしょ",
+  "meaning": "地方、场所"
+ },
+ {
+  "word": "離れる",
+  "reading": "はなれる",
+  "meaning": "离开、远离"
+ },
+ {
+  "word": "本当",
+  "reading": "ほんとう",
+  "meaning": "真实、真正（的事物）"
+ },
+ {
+  "word": "夢",
+  "reading": "ゆめ",
+  "meaning": "梦想、梦"
+ },
+ {
+  "word": "形",
+  "reading": "かたち",
+  "meaning": "形状、模样（歌词中写作カタチ）"
+ },
+ {
+  "word": "気づく",
+  "reading": "きづく",
+  "meaning": "察觉、意识到"
+ },
+ {
+  "word": "遥か",
+  "reading": "はるか",
+  "meaning": "遥远、高远"
+ },
+ {
+  "word": "空",
+  "reading": "そら",
+  "meaning": "天空"
+ },
+ {
+  "word": "見上げる",
+  "reading": "みあげる",
+  "meaning": "仰望、抬头看"
+ },
+ {
+  "word": "いつでも",
+  "reading": "いつでも",
+  "meaning": "无论何时"
+ },
+ {
+  "word": "愛おしい",
+  "reading": "いとおしい",
+  "meaning": "令人眷恋、惹人怜爱"
+ },
+ {
+  "word": "ただただ",
+  "reading": "ただただ",
+  "meaning": "一味地、只顾"
+ },
+ {
+  "word": "ひたむき",
+  "reading": "ひたむき",
+  "meaning": "一心一意、心无旁骛"
+ },
+ {
+  "word": "前を向く",
+  "reading": "まえをむく",
+  "meaning": "朝前看、积极向前",
+  "note": "惯用表达"
+ },
+ {
+  "word": "歌う",
+  "reading": "うたう",
+  "meaning": "歌唱"
+ },
+ {
+  "word": "眩しい",
+  "reading": "まぶしい",
+  "meaning": "耀眼、炫目"
+ },
+ {
+  "word": "掴み取る",
+  "reading": "つかみとる",
+  "meaning": "一把抓住、攫取"
+ },
+ {
+  "word": "星",
+  "reading": "ほし",
+  "meaning": "星星"
+ },
+ {
+  "word": "迷う",
+  "reading": "まよう",
+  "meaning": "迷茫、犹豫"
+ },
+ {
+  "word": "未来",
+  "reading": "みらい",
+  "meaning": "未来"
+ },
+ {
+  "word": "手を伸ばす",
+  "reading": "てをのばす",
+  "meaning": "伸出手（去触及、抓住）",
+  "note": "惯用表达"
+ },
+ {
+  "word": "心",
+  "reading": "こころ",
+  "meaning": "心、内心"
+ },
+ {
+  "word": "震わす",
+  "reading": "ふるわす",
+  "meaning": "使……震动、撼动"
+ },
+ {
+  "word": "震える",
+  "reading": "ふるえる",
+  "meaning": "颤抖、震动"
+ },
+ {
+  "word": "響かせる",
+  "reading": "ひびかせる",
+  "meaning": "使……响彻、让回响"
+ },
+ {
+  "word": "気持ち",
+  "reading": "きもち",
+  "meaning": "心情、心意"
+ },
+ {
+  "word": "永遠",
+  "reading": "えいえん",
+  "meaning": "永远、永恒"
+ },
+ {
+  "word": "混ざり合う",
+  "reading": "まざりあう",
+  "meaning": "相互混合、交融在一起"
+ },
+ {
+  "word": "過去",
+  "reading": "かこ",
+  "meaning": "过去"
+ },
+ {
+  "word": "姿",
+  "reading": "すがた",
+  "meaning": "身姿、身影、模样"
+ },
+ {
+  "word": "鏡",
+  "reading": "かがみ",
+  "meaning": "镜子"
+ },
+ {
+  "word": "映す",
+  "reading": "うつす",
+  "meaning": "映照、映出"
+ },
+ {
+  "word": "問いかける",
+  "reading": "といかける",
+  "meaning": "发问、向……询问"
+ },
+ {
+  "word": "人波",
+  "reading": "ひとなみ",
+  "meaning": "人潮、人流"
+ },
+ {
+  "word": "かき分ける",
+  "reading": "かきわける",
+  "meaning": "拨开（人群、草木等）前行"
+ },
+ {
+  "word": "裸足",
+  "reading": "はだし",
+  "meaning": "赤脚、光脚"
+ },
+ {
+  "word": "飛び出す",
+  "reading": "とびだす",
+  "meaning": "飞奔而出、冲出去"
+ },
+ {
+  "word": "嘘",
+  "reading": "うそ",
+  "meaning": "谎言、假话"
+ },
+ {
+  "word": "嘘をつく",
+  "reading": "うそをつく",
+  "meaning": "说谎",
+  "note": "惯用表达"
+ },
+ {
+  "word": "どうか",
+  "reading": "どうか",
+  "meaning": "请务必、恳请"
+ },
+ {
+  "word": "続き",
+  "reading": "つづき",
+  "meaning": "继续、后续部分"
+ },
+ {
+  "word": "辿り着く",
+  "reading": "たどりつく",
+  "meaning": "历经艰辛终于到达"
+ },
+ {
+  "word": "終わり",
+  "reading": "おわり",
+  "meaning": "结束、终结"
+ },
+ {
+  "word": "迷路",
+  "reading": "めいろ",
+  "meaning": "迷宫、迷途"
+ },
+ {
+  "word": "途中",
+  "reading": "とちゅう",
+  "meaning": "途中、半路"
+ },
+ {
+  "word": "大切",
+  "reading": "たいせつ",
+  "meaning": "重要、珍贵"
+ },
+ {
+  "word": "拾い集める",
+  "reading": "ひろいあつめる",
+  "meaning": "拾取收集、一点点捡起"
+ },
+ {
+  "word": "彷徨う",
+  "reading": "さまよう",
+  "meaning": "徘徊、彷徨"
+ },
+ {
+  "word": "思い出",
+  "reading": "おもいで",
+  "meaning": "回忆"
+ },
+ {
+  "word": "交差する",
+  "reading": "こうさする",
+  "meaning": "交错、交叉"
+ },
+ {
+  "word": "運命",
+  "reading": "うんめい",
+  "meaning": "命运"
+ },
+ {
+  "word": "奇跡",
+  "reading": "きせき",
+  "meaning": "奇迹"
+ },
+ {
+  "word": "最後",
+  "reading": "さいご",
+  "meaning": "最后、最终"
+ },
+ {
+  "word": "扉",
+  "reading": "とびら",
+  "meaning": "门扉、门"
+ },
+ {
+  "word": "微笑む",
+  "reading": "ほほえむ",
+  "meaning": "微笑"
+ },
+ {
+  "word": "胸",
+  "reading": "むね",
+  "meaning": "胸口、内心"
+ },
+ {
+  "word": "せめて",
+  "reading": "せめて",
+  "meaning": "至少、哪怕……也好"
+ },
+ {
+  "word": "涙",
+  "reading": "なみだ",
+  "meaning": "眼泪"
+ },
+ {
+  "word": "枯れる",
+  "reading": "かれる",
+  "meaning": "干涸、枯竭"
+ },
+ {
+  "word": "冷たい",
+  "reading": "つめたい",
+  "meaning": "冰冷的、凉的"
+ },
+ {
+  "word": "打たれる",
+  "reading": "うたれる",
+  "meaning": "被（雨）打在身上、经受打击"
+ },
+ {
+  "word": "温める",
+  "reading": "あたためる",
+  "meaning": "温暖、使变暖和"
+ },
+ {
+  "word": "この先",
+  "reading": "このさき",
+  "meaning": "今后、前方（的路）"
+ },
+ {
+  "word": "起こる",
+  "reading": "おこる",
+  "meaning": "发生"
+ },
+ {
+  "word": "感じる",
+  "reading": "かんじる",
+  "meaning": "感受、感觉到"
+ },
+ {
+  "word": "続ける",
+  "reading": "つづける",
+  "meaning": "继续、持续"
+ },
+ {
+  "word": "二度と",
+  "reading": "にどと",
+  "meaning": "再也（不）、第二次也不"
+ },
+ {
+  "word": "離す",
+  "reading": "はなす",
+  "meaning": "放开、使分开"
+ },
+ {
+  "word": "何度でも",
+  "reading": "なんどでも",
+  "meaning": "无论多少次",
+  "note": "惯用表达"
+ },
+ {
+  "word": "戻る",
+  "reading": "もどる",
+  "meaning": "返回、回到"
+ }
+]

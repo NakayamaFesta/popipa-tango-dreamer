@@ -1,0 +1,324 @@
+[
+ {
+  "word": "来週",
+  "reading": "らいしゅう",
+  "meaning": "下周、下星期"
+ },
+ {
+  "word": "生まれる",
+  "reading": "うまれる",
+  "meaning": "出生、诞生"
+ },
+ {
+  "word": "うさぎ",
+  "reading": "うさぎ",
+  "meaning": "兔子"
+ },
+ {
+  "word": "赤ちゃん",
+  "reading": "あかちゃん",
+  "meaning": "婴儿、小宝宝"
+ },
+ {
+  "word": "教務棟",
+  "reading": "きょうむとう",
+  "meaning": "教务楼、教学楼"
+ },
+ {
+  "word": "甘い",
+  "reading": "あまい",
+  "meaning": "甜的"
+ },
+ {
+  "word": "缶コーヒー",
+  "reading": "かんコーヒー",
+  "meaning": "罐装咖啡"
+ },
+ {
+  "word": "学食",
+  "reading": "がくしょく",
+  "meaning": "学生食堂"
+ },
+ {
+  "word": "メニュー",
+  "reading": "メニュー",
+  "meaning": "菜单"
+ },
+ {
+  "word": "カレー",
+  "reading": "カレー",
+  "meaning": "咖喱"
+ },
+ {
+  "word": "パスタ",
+  "reading": "パスタ",
+  "meaning": "意大利面"
+ },
+ {
+  "word": "門",
+  "reading": "もん",
+  "meaning": "门、校门"
+ },
+ {
+  "word": "出会う",
+  "reading": "であう",
+  "meaning": "相遇、遇见"
+ },
+ {
+  "word": "吐息",
+  "reading": "といき",
+  "meaning": "吐气、叹息"
+ },
+ {
+  "word": "大切",
+  "reading": "たいせつ",
+  "meaning": "重要、珍贵"
+ },
+ {
+  "word": "友だち",
+  "reading": "ともだち",
+  "meaning": "朋友"
+ },
+ {
+  "word": "仲直り",
+  "reading": "なかなおり",
+  "meaning": "和好、重归于好"
+ },
+ {
+  "word": "よくばり",
+  "reading": "よくばり",
+  "meaning": "贪心、贪得无厌"
+ },
+ {
+  "word": "ときめき",
+  "reading": "ときめき",
+  "meaning": "心动、悸动"
+ },
+ {
+  "word": "溢れる",
+  "reading": "あふれる",
+  "meaning": "满溢、充满"
+ },
+ {
+  "word": "思い出",
+  "reading": "おもいで",
+  "meaning": "回忆"
+ },
+ {
+  "word": "色あせる",
+  "reading": "いろあせる",
+  "meaning": "褪色、（记忆）淡去"
+ },
+ {
+  "word": "繋がる",
+  "reading": "つながる",
+  "meaning": "相连、维系在一起"
+ },
+ {
+  "word": "愛おしい",
+  "reading": "いとおしい",
+  "meaning": "令人怜爱、可爱得让人心疼"
+ },
+ {
+  "word": "記憶",
+  "reading": "きおく",
+  "meaning": "记忆"
+ },
+ {
+  "word": "欠片",
+  "reading": "かけら",
+  "meaning": "碎片"
+ },
+ {
+  "word": "とびっきり",
+  "reading": "とびっきり",
+  "meaning": "格外、最出色的"
+ },
+ {
+  "word": "この先",
+  "reading": "このさき",
+  "meaning": "今后、从今往后"
+ },
+ {
+  "word": "放課後",
+  "reading": "ほうかご",
+  "meaning": "放学后"
+ },
+ {
+  "word": "出かける",
+  "reading": "でかける",
+  "meaning": "出门、外出"
+ },
+ {
+  "word": "尽きる",
+  "reading": "つきる",
+  "meaning": "穷尽、说完（话谈不尽）"
+ },
+ {
+  "word": "行きそびれる",
+  "reading": "いきそびれる",
+  "meaning": "错过时机没去成"
+ },
+ {
+  "word": "初めて",
+  "reading": "はじめて",
+  "meaning": "第一次、初次"
+ },
+ {
+  "word": "ライブ",
+  "reading": "ライブ",
+  "meaning": "现场演出、演唱会"
+ },
+ {
+  "word": "緊張する",
+  "reading": "きんちょうする",
+  "meaning": "紧张"
+ },
+ {
+  "word": "震える",
+  "reading": "ふるえる",
+  "meaning": "颤抖、发抖"
+ },
+ {
+  "word": "握る",
+  "reading": "にぎる",
+  "meaning": "握住"
+ },
+ {
+  "word": "何でもない",
+  "reading": "なんでもない",
+  "meaning": "没什么大不了的、普普通通的",
+  "note": "惯用表达"
+ },
+ {
+  "word": "景色",
+  "reading": "けしき",
+  "meaning": "景色、风景"
+ },
+ {
+  "word": "レンズ",
+  "reading": "レンズ",
+  "meaning": "镜头"
+ },
+ {
+  "word": "向こう側",
+  "reading": "むこうがわ",
+  "meaning": "对面、另一侧"
+ },
+ {
+  "word": "時",
+  "reading": "とき",
+  "meaning": "时间、时光"
+ },
+ {
+  "word": "戻す",
+  "reading": "もどす",
+  "meaning": "使倒回、恢复原样"
+ },
+ {
+  "word": "カメラ",
+  "reading": "カメラ",
+  "meaning": "照相机"
+ },
+ {
+  "word": "手に入れる",
+  "reading": "てにいれる",
+  "meaning": "得到、入手",
+  "note": "惯用表达"
+ },
+ {
+  "word": "永遠",
+  "reading": "えいえん",
+  "meaning": "永远"
+ },
+ {
+  "word": "閉じ込める",
+  "reading": "とじこめる",
+  "meaning": "封存、关在里面"
+ },
+ {
+  "word": "胸",
+  "reading": "むね",
+  "meaning": "胸口、内心"
+ },
+ {
+  "word": "奥",
+  "reading": "おく",
+  "meaning": "深处"
+ },
+ {
+  "word": "しまう",
+  "reading": "しまう",
+  "meaning": "收起、收放好"
+ },
+ {
+  "word": "フィルム",
+  "reading": "フィルム",
+  "meaning": "胶卷、底片"
+ },
+ {
+  "word": "足りる",
+  "reading": "たりる",
+  "meaning": "足够（歌词用否定「足りない」表示不够）"
+ },
+ {
+  "word": "映る",
+  "reading": "うつる",
+  "meaning": "映照、映入"
+ },
+ {
+  "word": "残す",
+  "reading": "のこす",
+  "meaning": "留下、保留"
+ },
+ {
+  "word": "笑顔",
+  "reading": "えがお",
+  "meaning": "笑容、笑脸"
+ },
+ {
+  "word": "見せる",
+  "reading": "みせる",
+  "meaning": "展示、给……看"
+ },
+ {
+  "word": "校舎",
+  "reading": "こうしゃ",
+  "meaning": "校舍"
+ },
+ {
+  "word": "全て",
+  "reading": "すべて",
+  "meaning": "全部、一切"
+ },
+ {
+  "word": "キラキラ",
+  "reading": "キラキラ",
+  "meaning": "闪闪发光、亮晶晶"
+ },
+ {
+  "word": "壁",
+  "reading": "かべ",
+  "meaning": "墙壁"
+ },
+ {
+  "word": "覚える",
+  "reading": "おぼえる",
+  "meaning": "记住、记得"
+ },
+ {
+  "word": "形作る",
+  "reading": "かたちづくる",
+  "meaning": "塑造、构成"
+ },
+ {
+  "word": "取り出す",
+  "reading": "とりだす",
+  "meaning": "取出、拿出来"
+ },
+ {
+  "word": "確かめる",
+  "reading": "たしかめる",
+  "meaning": "确认、核实"
+ }
+]

@@ -1,0 +1,294 @@
+[
+ {
+  "word": "時に",
+  "reading": "ときに",
+  "meaning": "有时、偶尔（感慨时机）"
+ },
+ {
+  "word": "夢",
+  "reading": "ゆめ",
+  "meaning": "梦、梦想"
+ },
+ {
+  "word": "醒める",
+  "reading": "さめる",
+  "meaning": "（从梦中）醒来"
+ },
+ {
+  "word": "故に",
+  "reading": "ゆえに",
+  "meaning": "因此、所以（书面语）"
+ },
+ {
+  "word": "霞む",
+  "reading": "かすむ",
+  "meaning": "朦胧、模糊不清"
+ },
+ {
+  "word": "正に",
+  "reading": "まさに",
+  "meaning": "正是、的确"
+ },
+ {
+  "word": "繋がる",
+  "reading": "つながる",
+  "meaning": "相连、联系着"
+ },
+ {
+  "word": "会う",
+  "reading": "あえる",
+  "meaning": "相见、重逢（歌词为可能形「会える」）"
+ },
+ {
+  "word": "合わせる",
+  "reading": "あわせる",
+  "meaning": "使合拢、配合（齐声/合掌）"
+ },
+ {
+  "word": "両手",
+  "reading": "りょうて",
+  "meaning": "双手"
+ },
+ {
+  "word": "軽やか",
+  "reading": "かろやか",
+  "meaning": "轻快、轻盈"
+ },
+ {
+  "word": "絆",
+  "reading": "きずな",
+  "meaning": "羁绊、情谊纽带"
+ },
+ {
+  "word": "綴る",
+  "reading": "つづる",
+  "meaning": "连缀、谱写（故事）"
+ },
+ {
+  "word": "最近",
+  "reading": "さいきん",
+  "meaning": "最近"
+ },
+ {
+  "word": "止まる",
+  "reading": "とまる",
+  "meaning": "停止；歌词「止まらない」为按捺不住"
+ },
+ {
+  "word": "運命",
+  "reading": "うんめい",
+  "meaning": "命运"
+ },
+ {
+  "word": "感じる",
+  "reading": "かんじる",
+  "meaning": "感觉到、感受到"
+ },
+ {
+  "word": "ときめく",
+  "reading": "ときめく",
+  "meaning": "心跳加速、心动不已"
+ },
+ {
+  "word": "願い事",
+  "reading": "ねがいごと",
+  "meaning": "心愿、愿望"
+ },
+ {
+  "word": "拾い集める",
+  "reading": "ひろいあつめる",
+  "meaning": "拾取收集、一点点捡齐"
+ },
+ {
+  "word": "唄",
+  "reading": "うた",
+  "meaning": "歌、歌曲"
+ },
+ {
+  "word": "祈り",
+  "reading": "いのり",
+  "meaning": "祈祷、祈愿"
+ },
+ {
+  "word": "大事",
+  "reading": "だいじ",
+  "meaning": "重要、珍视"
+ },
+ {
+  "word": "気持ち",
+  "reading": "きもち",
+  "meaning": "心情、感情"
+ },
+ {
+  "word": "叫ぶ",
+  "reading": "さけぶ",
+  "meaning": "呼喊、大声喊出"
+ },
+ {
+  "word": "ありったけ",
+  "reading": "ありったけ",
+  "meaning": "全部所有、尽其所有"
+ },
+ {
+  "word": "鞄",
+  "reading": "かばん",
+  "meaning": "包、提包"
+ },
+ {
+  "word": "詰め込む",
+  "reading": "つめこむ",
+  "meaning": "塞满、装满"
+ },
+ {
+  "word": "飛び込む",
+  "reading": "とびこむ",
+  "meaning": "跳入、投身（向未来）"
+ },
+ {
+  "word": "とびきり",
+  "reading": "とびきり",
+  "meaning": "格外、非同寻常的"
+ },
+ {
+  "word": "未来",
+  "reading": "みらい",
+  "meaning": "未来"
+ },
+ {
+  "word": "繋ぐ",
+  "reading": "つなぐ",
+  "meaning": "连接、维系"
+ },
+ {
+  "word": "世界",
+  "reading": "せかい",
+  "meaning": "世界"
+ },
+ {
+  "word": "出会う",
+  "reading": "であう",
+  "meaning": "相遇、邂逅"
+ },
+ {
+  "word": "旅",
+  "reading": "たび",
+  "meaning": "旅行、旅途"
+ },
+ {
+  "word": "紡ぐ",
+  "reading": "つむぐ",
+  "meaning": "编织、纺出（话语/想象）"
+ },
+ {
+  "word": "イマジネーション",
+  "reading": "いまじねーしょん",
+  "meaning": "想象力（imagination）"
+ },
+ {
+  "word": "グローリー",
+  "reading": "ぐろーりー",
+  "meaning": "荣光、荣耀（glory）"
+ },
+ {
+  "word": "別れ",
+  "reading": "わかれ",
+  "meaning": "分别、离别"
+ },
+ {
+  "word": "何度でも",
+  "reading": "なんどでも",
+  "meaning": "无论多少次、无数次",
+  "note": "惯用表达"
+ },
+ {
+  "word": "届く",
+  "reading": "とどく",
+  "meaning": "传达到、送达（心意）"
+ },
+ {
+  "word": "歌う",
+  "reading": "うたう",
+  "meaning": "歌唱"
+ },
+ {
+  "word": "愛しさ",
+  "reading": "いとしさ",
+  "meaning": "爱怜之情、爱意"
+ },
+ {
+  "word": "溢れる",
+  "reading": "あふれる",
+  "meaning": "溢出、满溢（情感）"
+ },
+ {
+  "word": "感激",
+  "reading": "かんげき",
+  "meaning": "感动、感激"
+ },
+ {
+  "word": "夢見る",
+  "reading": "ゆめみる",
+  "meaning": "做梦、心怀梦想"
+ },
+ {
+  "word": "やっと",
+  "reading": "やっと",
+  "meaning": "终于、总算"
+ },
+ {
+  "word": "集まる",
+  "reading": "あつまる",
+  "meaning": "聚集、集合"
+ },
+ {
+  "word": "心ときめく",
+  "reading": "こころときめく",
+  "meaning": "令人心动的、让人雀跃的",
+  "note": "惯用表达"
+ },
+ {
+  "word": "宝物",
+  "reading": "たからもの",
+  "meaning": "宝物、珍宝"
+ },
+ {
+  "word": "探す",
+  "reading": "さがす",
+  "meaning": "寻找"
+ },
+ {
+  "word": "空っぽ",
+  "reading": "からっぽ",
+  "meaning": "空空的、空无所有"
+ },
+ {
+  "word": "ぶら下げる",
+  "reading": "ぶらさげる",
+  "meaning": "悬挂、挎着（包）"
+ },
+ {
+  "word": "まっすぐ",
+  "reading": "まっすぐ",
+  "meaning": "笔直地、径直"
+ },
+ {
+  "word": "真っ新",
+  "reading": "まっさら",
+  "meaning": "崭新、全新"
+ },
+ {
+  "word": "最高",
+  "reading": "さいこう",
+  "meaning": "最棒的、最好的"
+ },
+ {
+  "word": "出会い",
+  "reading": "であい",
+  "meaning": "相遇、邂逅（名词）"
+ },
+ {
+  "word": "素敵",
+  "reading": "すてき",
+  "meaning": "美好、绝妙"
+ }
+]

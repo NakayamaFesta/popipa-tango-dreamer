@@ -1,0 +1,368 @@
+[
+ {
+  "word": "晴れ上がる",
+  "reading": "はれあがる",
+  "meaning": "（天空）完全放晴"
+ },
+ {
+  "word": "見つめる",
+  "reading": "みつめる",
+  "meaning": "注视、凝视"
+ },
+ {
+  "word": "見つける",
+  "reading": "みつける",
+  "meaning": "找到、发现"
+ },
+ {
+  "word": "夢",
+  "reading": "ゆめ",
+  "meaning": "梦想"
+ },
+ {
+  "word": "大空",
+  "reading": "おおぞら",
+  "meaning": "广阔的天空"
+ },
+ {
+  "word": "青空",
+  "reading": "おおぞら",
+  "meaning": "蓝天（歌词中唱作おおぞら）"
+ },
+ {
+  "word": "放つ",
+  "reading": "はなつ",
+  "meaning": "放出、放飞"
+ },
+ {
+  "word": "息が詰まる",
+  "reading": "いきがつまる",
+  "meaning": "喘不过气、令人窒息",
+  "note": "惯用表达"
+ },
+ {
+  "word": "目が覚める",
+  "reading": "めがさめる",
+  "meaning": "醒来、清醒（歌词作「醒める」）",
+  "note": "惯用表达"
+ },
+ {
+  "word": "本気",
+  "reading": "ほんき",
+  "meaning": "认真、动真格"
+ },
+ {
+  "word": "愛情",
+  "reading": "あいじょう",
+  "meaning": "爱、爱情"
+ },
+ {
+  "word": "友情",
+  "reading": "ゆうじょう",
+  "meaning": "友情"
+ },
+ {
+  "word": "明日は明日の風が吹く",
+  "reading": "あしたはあしたのかぜがふく",
+  "meaning": "谚语：明天自有明天的风，船到桥头自然直",
+  "note": "惯用表达"
+ },
+ {
+  "word": "風",
+  "reading": "かぜ",
+  "meaning": "风"
+ },
+ {
+  "word": "やり切る",
+  "reading": "やりきる",
+  "meaning": "做完、坚持到底"
+ },
+ {
+  "word": "響かせる",
+  "reading": "ひびかせる",
+  "meaning": "使……回响、响彻"
+ },
+ {
+  "word": "世界",
+  "reading": "せかい",
+  "meaning": "世界"
+ },
+ {
+  "word": "縛る",
+  "reading": "しばる",
+  "meaning": "捆绑、束缚"
+ },
+ {
+  "word": "過去",
+  "reading": "かこ",
+  "meaning": "过去"
+ },
+ {
+  "word": "退屈",
+  "reading": "たいくつ",
+  "meaning": "无聊、厌倦"
+ },
+ {
+  "word": "日々",
+  "reading": "ひび",
+  "meaning": "每天、日子"
+ },
+ {
+  "word": "越える",
+  "reading": "こえる",
+  "meaning": "跨越、越过"
+ },
+ {
+  "word": "走る",
+  "reading": "はしる",
+  "meaning": "奔跑"
+ },
+ {
+  "word": "愛",
+  "reading": "あい",
+  "meaning": "爱"
+ },
+ {
+  "word": "無敵",
+  "reading": "むてき",
+  "meaning": "无敌"
+ },
+ {
+  "word": "駆け抜ける",
+  "reading": "かけぬける",
+  "meaning": "奔跑着穿过、一路冲刺"
+ },
+ {
+  "word": "笑顔",
+  "reading": "えがお",
+  "meaning": "笑脸、笑容"
+ },
+ {
+  "word": "全開",
+  "reading": "ぜんかい",
+  "meaning": "全开、火力全开"
+ },
+ {
+  "word": "掴む",
+  "reading": "つかむ",
+  "meaning": "抓住"
+ },
+ {
+  "word": "音",
+  "reading": "おと",
+  "meaning": "声音、乐音"
+ },
+ {
+  "word": "全力",
+  "reading": "ぜんりょく",
+  "meaning": "全力"
+ },
+ {
+  "word": "未来",
+  "reading": "みらい",
+  "meaning": "未来"
+ },
+ {
+  "word": "ドア",
+  "reading": "どあ",
+  "meaning": "门"
+ },
+ {
+  "word": "想像",
+  "reading": "そうぞう",
+  "meaning": "想象"
+ },
+ {
+  "word": "彼方",
+  "reading": "かなた",
+  "meaning": "彼方、远方"
+ },
+ {
+  "word": "熱い",
+  "reading": "あつい",
+  "meaning": "热的、热情的"
+ },
+ {
+  "word": "損",
+  "reading": "そん",
+  "meaning": "吃亏、损失"
+ },
+ {
+  "word": "人生",
+  "reading": "じんせい",
+  "meaning": "人生"
+ },
+ {
+  "word": "遮二無二",
+  "reading": "しゃにむに",
+  "meaning": "不顾一切、只顾向前"
+ },
+ {
+  "word": "生きる",
+  "reading": "いきる",
+  "meaning": "活、生存"
+ },
+ {
+  "word": "全身全霊",
+  "reading": "ぜんしんぜんれい",
+  "meaning": "全身全心、竭尽全力"
+ },
+ {
+  "word": "突き抜ける",
+  "reading": "つきぬける",
+  "meaning": "突破、穿透"
+ },
+ {
+  "word": "無理難題",
+  "reading": "むりなんだい",
+  "meaning": "无理难题、强人所难的要求"
+ },
+ {
+  "word": "無茶振り",
+  "reading": "むちゃぶり",
+  "meaning": "强人所难（的无理要求）"
+ },
+ {
+  "word": "へっちゃら",
+  "reading": "へっちゃら",
+  "meaning": "满不在乎、不当回事"
+ },
+ {
+  "word": "頂上",
+  "reading": "ちょうじょう",
+  "meaning": "顶峰、顶点"
+ },
+ {
+  "word": "戦場",
+  "reading": "せんじょう",
+  "meaning": "战场"
+ },
+ {
+  "word": "下剋上",
+  "reading": "げこくじょう",
+  "meaning": "以下克上"
+ },
+ {
+  "word": "身を任せる",
+  "reading": "みをまかせる",
+  "meaning": "任凭、把身心交付给……",
+  "note": "惯用表达"
+ },
+ {
+  "word": "熱狂",
+  "reading": "ねっきょう",
+  "meaning": "狂热"
+ },
+ {
+  "word": "真ん中",
+  "reading": "まんなか",
+  "meaning": "正中央"
+ },
+ {
+  "word": "眺める",
+  "reading": "ながめる",
+  "meaning": "眺望、凝视"
+ },
+ {
+  "word": "素敵",
+  "reading": "すてき",
+  "meaning": "美好、棒极了"
+ },
+ {
+  "word": "伸び上がる",
+  "reading": "のびあがる",
+  "meaning": "向上伸展、挺起"
+ },
+ {
+  "word": "迷う",
+  "reading": "まよう",
+  "meaning": "迷茫、犹豫"
+ },
+ {
+  "word": "出会う",
+  "reading": "であう",
+  "meaning": "遇见、邂逅"
+ },
+ {
+  "word": "声",
+  "reading": "こえ",
+  "meaning": "声音、嗓音"
+ },
+ {
+  "word": "合わせる",
+  "reading": "あわせる",
+  "meaning": "合在一起、配合"
+ },
+ {
+  "word": "連鎖",
+  "reading": "れんさ",
+  "meaning": "连锁"
+ },
+ {
+  "word": "衝撃",
+  "reading": "しょうげき",
+  "meaning": "冲击、震撼"
+ },
+ {
+  "word": "ありのまま",
+  "reading": "ありのまま",
+  "meaning": "如实、原原本本的样子",
+  "note": "惯用表达"
+ },
+ {
+  "word": "気持ち",
+  "reading": "きもち",
+  "meaning": "心情、感受"
+ },
+ {
+  "word": "一生",
+  "reading": "いっしょう",
+  "meaning": "一生、一辈子"
+ },
+ {
+  "word": "心を躍らせる",
+  "reading": "こころをおどらせる",
+  "meaning": "让心雀跃、满怀激动",
+  "note": "惯用表达"
+ },
+ {
+  "word": "続ける",
+  "reading": "つづける",
+  "meaning": "继续"
+ },
+ {
+  "word": "正々堂々",
+  "reading": "せいせいどうどう",
+  "meaning": "堂堂正正、光明正大"
+ },
+ {
+  "word": "追いかける",
+  "reading": "おいかける",
+  "meaning": "追赶、追逐"
+ },
+ {
+  "word": "答",
+  "reading": "こたえ",
+  "meaning": "答案（通常写作「答え」）"
+ },
+ {
+  "word": "揺れる",
+  "reading": "ゆれる",
+  "meaning": "摇晃、摇曳"
+ },
+ {
+  "word": "突破口",
+  "reading": "とっぱこう",
+  "meaning": "突破口"
+ },
+ {
+  "word": "完全燃焼",
+  "reading": "かんぜんねんしょう",
+  "meaning": "完全燃烧、拼尽全力"
+ },
+ {
+  "word": "打ち上げる",
+  "reading": "うちあげる",
+  "meaning": "发射升空、打上去"
+ }
+]

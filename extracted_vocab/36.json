@@ -1,0 +1,286 @@
+[
+ {
+  "word": "どきどき",
+  "reading": "どきどき",
+  "meaning": "心跳加速、忐忑不安（拟声拟态词）"
+ },
+ {
+  "word": "デエト",
+  "reading": "でえと",
+  "meaning": "约会（デート的拉长音写法，歌词特有）"
+ },
+ {
+  "word": "とっきめき",
+  "reading": "とっきめき",
+  "meaning": "心动、悸动（ときめき的促音化写法）"
+ },
+ {
+  "word": "きっらきら",
+  "reading": "きっらきら",
+  "meaning": "闪闪发光（きらきら的强调写法）"
+ },
+ {
+  "word": "夢中",
+  "reading": "むちゅう",
+  "meaning": "入迷、沉醉其中"
+ },
+ {
+  "word": "勝負",
+  "reading": "しょうぶ",
+  "meaning": "胜负、较量"
+ },
+ {
+  "word": "明後日",
+  "reading": "あさって",
+  "meaning": "后天"
+ },
+ {
+  "word": "待ちきれない",
+  "reading": "まちきれない",
+  "meaning": "等不及、迫不及待",
+  "note": "惯用表达"
+ },
+ {
+  "word": "遊ぶ",
+  "reading": "あそぶ",
+  "meaning": "玩、玩耍"
+ },
+ {
+  "word": "楽しみ",
+  "reading": "たのしみ",
+  "meaning": "期待、盼望、乐趣"
+ },
+ {
+  "word": "ウィンドウ",
+  "reading": "うぃんどう",
+  "meaning": "橱窗、展示窗"
+ },
+ {
+  "word": "映る",
+  "reading": "うつる",
+  "meaning": "映照、倒映"
+ },
+ {
+  "word": "二人",
+  "reading": "ふたり",
+  "meaning": "两个人"
+ },
+ {
+  "word": "笑う",
+  "reading": "わらう",
+  "meaning": "笑"
+ },
+ {
+  "word": "アイス",
+  "reading": "あいす",
+  "meaning": "冰淇淋（アイスクリーム的略称）"
+ },
+ {
+  "word": "分け合う",
+  "reading": "わけあう",
+  "meaning": "互相分享、分摊"
+ },
+ {
+  "word": "奪い合う",
+  "reading": "うばいあう",
+  "meaning": "互相争抢"
+ },
+ {
+  "word": "ついに",
+  "reading": "ついに",
+  "meaning": "终于、最终"
+ },
+ {
+  "word": "見つける",
+  "reading": "みつける",
+  "meaning": "找到、发现"
+ },
+ {
+  "word": "プレゼント",
+  "reading": "ぷれぜんと",
+  "meaning": "礼物"
+ },
+ {
+  "word": "優しさ",
+  "reading": "やさしさ",
+  "meaning": "温柔、体贴"
+ },
+ {
+  "word": "甘える",
+  "reading": "あまえる",
+  "meaning": "撒娇、依赖别人的好意"
+ },
+ {
+  "word": "喧嘩",
+  "reading": "けんか",
+  "meaning": "吵架、争吵"
+ },
+ {
+  "word": "仲直り",
+  "reading": "なかなおり",
+  "meaning": "和好、言归于好"
+ },
+ {
+  "word": "乙女",
+  "reading": "おとめ",
+  "meaning": "少女"
+ },
+ {
+  "word": "日曜日",
+  "reading": "にちようび",
+  "meaning": "星期天"
+ },
+ {
+  "word": "お出かけ",
+  "reading": "おでかけ",
+  "meaning": "出门、外出"
+ },
+ {
+  "word": "会う",
+  "reading": "あう",
+  "meaning": "见面、相会"
+ },
+ {
+  "word": "夢",
+  "reading": "ゆめ",
+  "meaning": "梦"
+ },
+ {
+  "word": "足りる",
+  "reading": "たりる",
+  "meaning": "足够、够"
+ },
+ {
+  "word": "仲良し",
+  "reading": "なかよし",
+  "meaning": "关系好、亲密、好朋友"
+ },
+ {
+  "word": "思い出",
+  "reading": "おもいで",
+  "meaning": "回忆"
+ },
+ {
+  "word": "作る",
+  "reading": "つくる",
+  "meaning": "制作、创造"
+ },
+ {
+  "word": "声を揃える",
+  "reading": "こえをそろえる",
+  "meaning": "齐声高喊、异口同声",
+  "note": "惯用表达"
+ },
+ {
+  "word": "明日",
+  "reading": "あす",
+  "meaning": "明天"
+ },
+ {
+  "word": "迎える",
+  "reading": "むかえる",
+  "meaning": "迎接（时刻、日子的到来）"
+ },
+ {
+  "word": "街",
+  "reading": "まち",
+  "meaning": "街上、城镇"
+ },
+ {
+  "word": "繰り出す",
+  "reading": "くりだす",
+  "meaning": "出发前往、倾巢而出",
+  "note": "惯用表达"
+ },
+ {
+  "word": "三段重ね",
+  "reading": "さんだんがさね",
+  "meaning": "三层叠放（这里指三层冰淇淋）"
+ },
+ {
+  "word": "あることないこと",
+  "reading": "あることないこと",
+  "meaning": "有的没的、各种琐事闲话",
+  "note": "惯用表达"
+ },
+ {
+  "word": "喋る",
+  "reading": "しゃべる",
+  "meaning": "说话、聊天"
+ },
+ {
+  "word": "甘い",
+  "reading": "あまい",
+  "meaning": "甜的、甜美的"
+ },
+ {
+  "word": "溶ける",
+  "reading": "とける",
+  "meaning": "融化、逐渐消融"
+ },
+ {
+  "word": "朝",
+  "reading": "あさ",
+  "meaning": "早晨"
+ },
+ {
+  "word": "目覚める",
+  "reading": "めざめる",
+  "meaning": "醒来、睡醒"
+ },
+ {
+  "word": "空",
+  "reading": "そら",
+  "meaning": "天空"
+ },
+ {
+  "word": "見上げる",
+  "reading": "みあげる",
+  "meaning": "仰望、抬头看"
+ },
+ {
+  "word": "待ち合わせ",
+  "reading": "まちあわせ",
+  "meaning": "约会碰头、会合"
+ },
+ {
+  "word": "場所",
+  "reading": "ばしょ",
+  "meaning": "地点、场所"
+ },
+ {
+  "word": "走り出す",
+  "reading": "はしりだす",
+  "meaning": "奔跑起来、冲出去"
+ },
+ {
+  "word": "顔",
+  "reading": "かお",
+  "meaning": "脸、表情（此处指用什么样的表情）"
+ },
+ {
+  "word": "一番",
+  "reading": "いちばん",
+  "meaning": "最、第一"
+ },
+ {
+  "word": "約束",
+  "reading": "やくそく",
+  "meaning": "约定、诺言"
+ },
+ {
+  "word": "気づく",
+  "reading": "きづく",
+  "meaning": "察觉、注意到"
+ },
+ {
+  "word": "カレンダー",
+  "reading": "かれんだー",
+  "meaning": "日历"
+ },
+ {
+  "word": "埋まる",
+  "reading": "うまる",
+  "meaning": "被填满、排满"
+ }
+]

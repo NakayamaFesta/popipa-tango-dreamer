@@ -1,0 +1,292 @@
+[
+ {
+  "word": "楽しみ",
+  "reading": "たのしみ",
+  "meaning": "期待、盼望的乐事"
+ },
+ {
+  "word": "贈る",
+  "reading": "おくる",
+  "meaning": "赠送、献给（把歌送给对方）"
+ },
+ {
+  "word": "全身全霊",
+  "reading": "ぜんしんぜんれい",
+  "meaning": "全身心、竭尽心力"
+ },
+ {
+  "word": "最強",
+  "reading": "さいきょう",
+  "meaning": "最强"
+ },
+ {
+  "word": "ソング",
+  "reading": "ソング",
+  "meaning": "歌曲（song）"
+ },
+ {
+  "word": "ため息",
+  "reading": "ためいき",
+  "meaning": "叹息、叹气"
+ },
+ {
+  "word": "背筋を伸ばす",
+  "reading": "せすじをのばす",
+  "meaning": "挺直腰板、振作精神",
+  "note": "惯用表达"
+ },
+ {
+  "word": "景色",
+  "reading": "けしき",
+  "meaning": "景色、风景"
+ },
+ {
+  "word": "変わる",
+  "reading": "かわる",
+  "meaning": "改变、变化"
+ },
+ {
+  "word": "涙",
+  "reading": "なみだ",
+  "meaning": "眼泪"
+ },
+ {
+  "word": "流す",
+  "reading": "ながす",
+  "meaning": "流出、流淌（流泪）"
+ },
+ {
+  "word": "手拍子",
+  "reading": "てびょうし",
+  "meaning": "拍手打拍子"
+ },
+ {
+  "word": "合わせる",
+  "reading": "あわせる",
+  "meaning": "使配合、对齐（拍手、步调）"
+ },
+ {
+  "word": "笑顔",
+  "reading": "えがお",
+  "meaning": "笑容、笑脸"
+ },
+ {
+  "word": "見せ合う",
+  "reading": "みせあう",
+  "meaning": "互相展示、彼此相视"
+ },
+ {
+  "word": "心が晴れる",
+  "reading": "こころがはれる",
+  "meaning": "心情放晴、豁然开朗",
+  "note": "惯用表达"
+ },
+ {
+  "word": "世界",
+  "reading": "せかい",
+  "meaning": "世界"
+ },
+ {
+  "word": "単純",
+  "reading": "たんじゅん",
+  "meaning": "单纯、简单"
+ },
+ {
+  "word": "最高",
+  "reading": "さいこう",
+  "meaning": "最棒、最好"
+ },
+ {
+  "word": "代わりがきかない",
+  "reading": "かわりがきかない",
+  "meaning": "无可替代",
+  "note": "惯用表达"
+ },
+ {
+  "word": "オリジナル",
+  "reading": "オリジナル",
+  "meaning": "原创、独一无二的事物"
+ },
+ {
+  "word": "限界",
+  "reading": "げんかい",
+  "meaning": "极限、界限"
+ },
+ {
+  "word": "勇気",
+  "reading": "ゆうき",
+  "meaning": "勇气"
+ },
+ {
+  "word": "子供の頃",
+  "reading": "こどものころ",
+  "meaning": "小时候、童年时代",
+  "note": "惯用表达"
+ },
+ {
+  "word": "遠足",
+  "reading": "えんそく",
+  "meaning": "郊游、远足"
+ },
+ {
+  "word": "思い出す",
+  "reading": "おもいだす",
+  "meaning": "想起、回忆起"
+ },
+ {
+  "word": "困る",
+  "reading": "こまる",
+  "meaning": "为难、困扰"
+ },
+ {
+  "word": "成長",
+  "reading": "せいちょう",
+  "meaning": "成长"
+ },
+ {
+  "word": "チャレンジ",
+  "reading": "チャレンジ",
+  "meaning": "挑战（challenge）"
+ },
+ {
+  "word": "辞める",
+  "reading": "やめる",
+  "meaning": "停止、放弃（做某事）"
+ },
+ {
+  "word": "押す",
+  "reading": "おす",
+  "meaning": "推、按（在背后推一把）"
+ },
+ {
+  "word": "一緒",
+  "reading": "いっしょ",
+  "meaning": "一起、一同"
+ },
+ {
+  "word": "ステップ",
+  "reading": "ステップ",
+  "meaning": "舞步、步伐（step）"
+ },
+ {
+  "word": "ダンス",
+  "reading": "ダンス",
+  "meaning": "舞蹈（dance）"
+ },
+ {
+  "word": "踊る",
+  "reading": "おどる",
+  "meaning": "跳舞"
+ },
+ {
+  "word": "未来",
+  "reading": "みらい",
+  "meaning": "未来"
+ },
+ {
+  "word": "味方",
+  "reading": "みかた",
+  "meaning": "同伴、站在自己这边的人"
+ },
+ {
+  "word": "全力",
+  "reading": "ぜんりょく",
+  "meaning": "全力、竭尽全力"
+ },
+ {
+  "word": "愛",
+  "reading": "あい",
+  "meaning": "爱"
+ },
+ {
+  "word": "毎日",
+  "reading": "まいにち",
+  "meaning": "每天"
+ },
+ {
+  "word": "戦う",
+  "reading": "たたかう",
+  "meaning": "战斗、拼搏"
+ },
+ {
+  "word": "チャレンジャー",
+  "reading": "チャレンジャー",
+  "meaning": "挑战者（challenger）"
+ },
+ {
+  "word": "青春",
+  "reading": "せいしゅん",
+  "meaning": "青春"
+ },
+ {
+  "word": "続く",
+  "reading": "つづく",
+  "meaning": "继续、延续"
+ },
+ {
+  "word": "諦める",
+  "reading": "あきらめる",
+  "meaning": "放弃、死心"
+ },
+ {
+  "word": "試合",
+  "reading": "しあい",
+  "meaning": "比赛"
+ },
+ {
+  "word": "負ける",
+  "reading": "まける",
+  "meaning": "输、败北"
+ },
+ {
+  "word": "悔しい",
+  "reading": "くやしい",
+  "meaning": "不甘心、懊恼"
+ },
+ {
+  "word": "挑む",
+  "reading": "いどむ",
+  "meaning": "挑战、迎战"
+ },
+ {
+  "word": "声を出す",
+  "reading": "こえをだす",
+  "meaning": "喊出声、放声",
+  "note": "惯用表达"
+ },
+ {
+  "word": "騒ぐ",
+  "reading": "さわぐ",
+  "meaning": "喧闹、欢腾"
+ },
+ {
+  "word": "我慢",
+  "reading": "がまん",
+  "meaning": "忍耐、克制"
+ },
+ {
+  "word": "両手",
+  "reading": "りょうて",
+  "meaning": "双手"
+ },
+ {
+  "word": "上げる",
+  "reading": "あげる",
+  "meaning": "举起、抬起"
+ },
+ {
+  "word": "楽しむ",
+  "reading": "たのしむ",
+  "meaning": "享受、快乐地度过"
+ },
+ {
+  "word": "始まる",
+  "reading": "はじまる",
+  "meaning": "开始"
+ },
+ {
+  "word": "待つ",
+  "reading": "まつ",
+  "meaning": "等待"
+ }
+]

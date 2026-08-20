@@ -1,0 +1,414 @@
+[
+ {
+  "word": "イニシャル",
+  "reading": "いにしゃる",
+  "meaning": "首字母；此处象征初心与起点（标题词）"
+ },
+ {
+  "word": "本気",
+  "reading": "ほんき",
+  "meaning": "认真、动真格；歌词中写作ホンキ"
+ },
+ {
+  "word": "譲る",
+  "reading": "ゆずる",
+  "meaning": "让步、转让；譲れない＝不肯退让"
+ },
+ {
+  "word": "衝動",
+  "reading": "しょうどう",
+  "meaning": "冲动、按捺不住的激情"
+ },
+ {
+  "word": "指先",
+  "reading": "ゆびさき",
+  "meaning": "指尖"
+ },
+ {
+  "word": "エモーション",
+  "reading": "えもーしょん",
+  "meaning": "情感、情绪的迸发（emotion）"
+ },
+ {
+  "word": "少女",
+  "reading": "しょうじょ",
+  "meaning": "少女"
+ },
+ {
+  "word": "大人",
+  "reading": "おとな",
+  "meaning": "大人、成年人"
+ },
+ {
+  "word": "混じりけない",
+  "reading": "まじりけない",
+  "meaning": "毫无杂质、纯粹（混じりけのない眼差し）",
+  "note": "惯用表达"
+ },
+ {
+  "word": "眼差し",
+  "reading": "まなざし",
+  "meaning": "目光、眼神"
+ },
+ {
+  "word": "夢",
+  "reading": "ゆめ",
+  "meaning": "梦想、梦"
+ },
+ {
+  "word": "めらめら",
+  "reading": "めらめら",
+  "meaning": "熊熊燃烧貌（拟态词）"
+ },
+ {
+  "word": "ゆらゆら",
+  "reading": "ゆらゆら",
+  "meaning": "摇曳、晃晃悠悠（拟态词）"
+ },
+ {
+  "word": "燃え滾る",
+  "reading": "もえたぎる",
+  "meaning": "熊熊燃烧、激情沸腾"
+ },
+ {
+  "word": "勇気",
+  "reading": "ゆうき",
+  "meaning": "勇气"
+ },
+ {
+  "word": "噛み締める",
+  "reading": "かみしめる",
+  "meaning": "咬紧牙关；深切体会"
+ },
+ {
+  "word": "冒険",
+  "reading": "たび",
+  "meaning": "冒险；此处创意读作「たび（旅）」，一语双关"
+ },
+ {
+  "word": "湧き上がる",
+  "reading": "わきあがる",
+  "meaning": "涌出、油然而生"
+ },
+ {
+  "word": "震え",
+  "reading": "ふるえ",
+  "meaning": "颤抖、震颤"
+ },
+ {
+  "word": "体中",
+  "reading": "からだじゅう",
+  "meaning": "全身、浑身上下"
+ },
+ {
+  "word": "何故",
+  "reading": "なぜ",
+  "meaning": "为什么；歌词中作「何故に」"
+ },
+ {
+  "word": "果てない",
+  "reading": "はてない",
+  "meaning": "无边无际、没有尽头"
+ },
+ {
+  "word": "夜空",
+  "reading": "よぞら",
+  "meaning": "夜空"
+ },
+ {
+  "word": "向かう",
+  "reading": "むかう",
+  "meaning": "面向、朝向"
+ },
+ {
+  "word": "何度も",
+  "reading": "なんども",
+  "meaning": "无数次、一次又一次"
+ },
+ {
+  "word": "言葉",
+  "reading": "ことば",
+  "meaning": "话语、言辞"
+ },
+ {
+  "word": "叫ぶ",
+  "reading": "さけぶ",
+  "meaning": "呼喊、呐喊"
+ },
+ {
+  "word": "続ける",
+  "reading": "つづける",
+  "meaning": "继续、持续"
+ },
+ {
+  "word": "曖昧",
+  "reading": "あいまい",
+  "meaning": "暧昧、含糊不清"
+ },
+ {
+  "word": "見失う",
+  "reading": "みうしなう",
+  "meaning": "看丢、迷失"
+ },
+ {
+  "word": "戸惑う",
+  "reading": "とまどう",
+  "meaning": "困惑、不知所措（戸惑いがち＝容易迷茫）"
+ },
+ {
+  "word": "手にする",
+  "reading": "てにする",
+  "meaning": "拿到手、获得（手にしたもの）",
+  "note": "惯用表达"
+ },
+ {
+  "word": "星",
+  "reading": "ほし",
+  "meaning": "星星"
+ },
+ {
+  "word": "鼓動",
+  "reading": "こどう",
+  "meaning": "心跳、搏动"
+ },
+ {
+  "word": "感じる",
+  "reading": "かんじる",
+  "meaning": "感觉、感受"
+ },
+ {
+  "word": "強い",
+  "reading": "つよい",
+  "meaning": "强烈的、有力的（強く＝用力地）"
+ },
+ {
+  "word": "掻き鳴らす",
+  "reading": "かきならす",
+  "meaning": "用力拨响、纵情弹奏（乐器）"
+ },
+ {
+  "word": "心",
+  "reading": "こころ",
+  "meaning": "心、内心"
+ },
+ {
+  "word": "震わせる",
+  "reading": "ふるわせる",
+  "meaning": "使颤抖、震撼（心を震わせる）"
+ },
+ {
+  "word": "挫折",
+  "reading": "ざせつ",
+  "meaning": "挫折、失败"
+ },
+ {
+  "word": "堕ちる",
+  "reading": "おちる",
+  "meaning": "坠入、陷入（挫折に堕ちる）"
+ },
+ {
+  "word": "暗闇",
+  "reading": "くらやみ",
+  "meaning": "黑暗"
+ },
+ {
+  "word": "立ち竦む",
+  "reading": "たちすくむ",
+  "meaning": "（吓得）呆立不动"
+ },
+ {
+  "word": "ふらふら",
+  "reading": "ふらふら",
+  "meaning": "摇摇晃晃、踉跄（拟态词）"
+ },
+ {
+  "word": "くらくら",
+  "reading": "くらくら",
+  "meaning": "头晕目眩（拟态词）"
+ },
+ {
+  "word": "倒れる",
+  "reading": "たおれる",
+  "meaning": "倒下、跌倒"
+ },
+ {
+  "word": "身体",
+  "reading": "からだ",
+  "meaning": "身体"
+ },
+ {
+  "word": "立ち上がる",
+  "reading": "たちあがる",
+  "meaning": "站起来、奋起"
+ },
+ {
+  "word": "指す",
+  "reading": "さす",
+  "meaning": "指向、指着"
+ },
+ {
+  "word": "探す",
+  "reading": "さがす",
+  "meaning": "寻找"
+ },
+ {
+  "word": "触れる",
+  "reading": "ふれる",
+  "meaning": "触碰、接触"
+ },
+ {
+  "word": "唇",
+  "reading": "くちびる",
+  "meaning": "嘴唇；歌词中写作くちびる"
+ },
+ {
+  "word": "幾多",
+  "reading": "いくた",
+  "meaning": "许多、无数（幾多の星屑）"
+ },
+ {
+  "word": "星屑",
+  "reading": "ほしくず",
+  "meaning": "星屑、繁星点点"
+ },
+ {
+  "word": "一番",
+  "reading": "いちばん",
+  "meaning": "最、第一"
+ },
+ {
+  "word": "綺麗",
+  "reading": "きれい",
+  "meaning": "美丽、漂亮；歌词中写作キレイ"
+ },
+ {
+  "word": "輝く",
+  "reading": "かがやく",
+  "meaning": "闪耀、发光"
+ },
+ {
+  "word": "密やか",
+  "reading": "ひそやか",
+  "meaning": "静谧、悄然、隐秘"
+ },
+ {
+  "word": "淑やか",
+  "reading": "しとやか",
+  "meaning": "娴静、文雅端庄"
+ },
+ {
+  "word": "一人ぼっち",
+  "reading": "ひとりぼっち",
+  "meaning": "独自一人、孤单一人"
+ },
+ {
+  "word": "続き",
+  "reading": "つづき",
+  "meaning": "后续、继续（夢の続き）"
+ },
+ {
+  "word": "熱い",
+  "reading": "あつい",
+  "meaning": "热的；炽热的（情感）"
+ },
+ {
+  "word": "笑う",
+  "reading": "わらう",
+  "meaning": "笑；此处为嘲笑（人の夢を笑う）"
+ },
+ {
+  "word": "泣く",
+  "reading": "なく",
+  "meaning": "哭泣"
+ },
+ {
+  "word": "思い",
+  "reading": "おもい",
+  "meaning": "思念、心意、情感"
+ },
+ {
+  "word": "重ねる",
+  "reading": "かさねる",
+  "meaning": "叠加、重合（思いを重ねる）"
+ },
+ {
+  "word": "連続",
+  "reading": "れんぞく",
+  "meaning": "连续、持续不断"
+ },
+ {
+  "word": "日常",
+  "reading": "にちじょう",
+  "meaning": "日常、平常生活"
+ },
+ {
+  "word": "断続",
+  "reading": "だんぞく",
+  "meaning": "断续、时断时续"
+ },
+ {
+  "word": "非日常",
+  "reading": "ひにちじょう",
+  "meaning": "非日常、超脱平常的日子"
+ },
+ {
+  "word": "触れ合う",
+  "reading": "ふれあう",
+  "meaning": "相互接触、彼此交融"
+ },
+ {
+  "word": "絡まる",
+  "reading": "からまる",
+  "meaning": "缠绕、纠结在一起"
+ },
+ {
+  "word": "ハレーション",
+  "reading": "はれーしょん",
+  "meaning": "光晕、晕影（halation）"
+ },
+ {
+  "word": "地球",
+  "reading": "ちきゅう",
+  "meaning": "地球"
+ },
+ {
+  "word": "涙",
+  "reading": "なみだ",
+  "meaning": "眼泪"
+ },
+ {
+  "word": "落ちる",
+  "reading": "おちる",
+  "meaning": "落下、掉落（涙が落ちる）"
+ },
+ {
+  "word": "不確か",
+  "reading": "ふたしか",
+  "meaning": "不确定、靠不住"
+ },
+ {
+  "word": "頼りない",
+  "reading": "たよりない",
+  "meaning": "不可靠、无依无靠"
+ },
+ {
+  "word": "拠り所",
+  "reading": "よりどころ",
+  "meaning": "依靠、心灵的寄托"
+ },
+ {
+  "word": "教える",
+  "reading": "おしえる",
+  "meaning": "告诉、教会"
+ },
+ {
+  "word": "いつまでも",
+  "reading": "いつまでも",
+  "meaning": "永远、无论何时都"
+ },
+ {
+  "word": "抱く",
+  "reading": "だく",
+  "meaning": "拥抱；抱かれる＝被怀抱"
+ }
+]

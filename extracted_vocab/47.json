@@ -1,0 +1,360 @@
+[
+ {
+  "word": "途中",
+  "reading": "とちゅう",
+  "meaning": "途中、半路；夢の途中＝追梦途中"
+ },
+ {
+  "word": "出会う",
+  "reading": "であう",
+  "meaning": "相遇、邂逅"
+ },
+ {
+  "word": "弾ける",
+  "reading": "はじける",
+  "meaning": "迸裂、迸发；（心情）激动得快要爆发"
+ },
+ {
+  "word": "胸",
+  "reading": "むね",
+  "meaning": "胸口、心中"
+ },
+ {
+  "word": "予感",
+  "reading": "よかん",
+  "meaning": "预感"
+ },
+ {
+  "word": "膨らむ",
+  "reading": "ふくらむ",
+  "meaning": "膨胀、鼓起；（梦想、期待）不断膨胀"
+ },
+ {
+  "word": "続ける",
+  "reading": "つづける",
+  "meaning": "继续、持续"
+ },
+ {
+  "word": "届ける",
+  "reading": "とどける",
+  "meaning": "送达、传达（给全世界）"
+ },
+ {
+  "word": "願う",
+  "reading": "ねがう",
+  "meaning": "许愿、祈愿"
+ },
+ {
+  "word": "訊く",
+  "reading": "きく",
+  "meaning": "问、询问"
+ },
+ {
+  "word": "負ける",
+  "reading": "まける",
+  "meaning": "输、败给"
+ },
+ {
+  "word": "気持ち",
+  "reading": "きもち",
+  "meaning": "心情、感受"
+ },
+ {
+  "word": "詰める",
+  "reading": "つめる",
+  "meaning": "塞满、装紧；ぎゅっと詰めて＝紧紧塞入"
+ },
+ {
+  "word": "集める",
+  "reading": "あつめる",
+  "meaning": "收集、聚集"
+ },
+ {
+  "word": "動き出す",
+  "reading": "うごきだす",
+  "meaning": "开始动起来"
+ },
+ {
+  "word": "ぎゅっと",
+  "reading": "ぎゅっと",
+  "meaning": "紧紧地、用力地（握、抱、塞）"
+ },
+ {
+  "word": "キラキラ",
+  "reading": "きらきら",
+  "meaning": "闪闪发光、亮晶晶"
+ },
+ {
+  "word": "夢",
+  "reading": "ゆめ",
+  "meaning": "梦想、梦"
+ },
+ {
+  "word": "希望",
+  "reading": "きぼう",
+  "meaning": "希望"
+ },
+ {
+  "word": "ドキドキ",
+  "reading": "どきどき",
+  "meaning": "心跳加速、怦然心动"
+ },
+ {
+  "word": "世界",
+  "reading": "せかい",
+  "meaning": "世界"
+ },
+ {
+  "word": "回る",
+  "reading": "まわる",
+  "meaning": "旋转、转动；まわり続ける＝持续转动"
+ },
+ {
+  "word": "明日",
+  "reading": "あす",
+  "meaning": "明天（歌词中唱作あす）"
+ },
+ {
+  "word": "未来",
+  "reading": "みらい",
+  "meaning": "未来"
+ },
+ {
+  "word": "永遠",
+  "reading": "えいえん",
+  "meaning": "永远"
+ },
+ {
+  "word": "勇気",
+  "reading": "ゆうき",
+  "meaning": "勇气"
+ },
+ {
+  "word": "肩",
+  "reading": "かた",
+  "meaning": "肩膀"
+ },
+ {
+  "word": "寄せ合う",
+  "reading": "よせあう",
+  "meaning": "互相靠紧；肩を寄せ合う＝肩并肩"
+ },
+ {
+  "word": "素敵",
+  "reading": "すてき",
+  "meaning": "美好、出色、迷人"
+ },
+ {
+  "word": "奏でる",
+  "reading": "かなでる",
+  "meaning": "演奏（乐器）；夢を奏でる＝奏响梦想"
+ },
+ {
+  "word": "蕾",
+  "reading": "つぼみ",
+  "meaning": "花蕾、花苞"
+ },
+ {
+  "word": "そっと",
+  "reading": "そっと",
+  "meaning": "悄悄地、轻轻地"
+ },
+ {
+  "word": "愛おしい",
+  "reading": "いとおしい",
+  "meaning": "可爱、惹人怜爱、令人珍惜"
+ },
+ {
+  "word": "大事",
+  "reading": "だいじ",
+  "meaning": "重要、珍贵"
+ },
+ {
+  "word": "枯れる",
+  "reading": "かれる",
+  "meaning": "枯萎、凋谢"
+ },
+ {
+  "word": "育てる",
+  "reading": "そだてる",
+  "meaning": "培育、养育"
+ },
+ {
+  "word": "伝える",
+  "reading": "つたえる",
+  "meaning": "传达、告诉"
+ },
+ {
+  "word": "想い",
+  "reading": "おもい",
+  "meaning": "思念、心意"
+ },
+ {
+  "word": "足りない",
+  "reading": "たりない",
+  "meaning": "不够、不足"
+ },
+ {
+  "word": "追いかける",
+  "reading": "おいかける",
+  "meaning": "追赶、追逐（梦想）"
+ },
+ {
+  "word": "本気",
+  "reading": "ほんき",
+  "meaning": "认真、当真"
+ },
+ {
+  "word": "ためらい",
+  "reading": "ためらい",
+  "meaning": "犹豫、踌躇"
+ },
+ {
+  "word": "不安",
+  "reading": "ふあん",
+  "meaning": "不安、担心"
+ },
+ {
+  "word": "挫折",
+  "reading": "ざせつ",
+  "meaning": "挫折、失败"
+ },
+ {
+  "word": "焦燥感",
+  "reading": "しょうそうかん",
+  "meaning": "焦躁感"
+ },
+ {
+  "word": "溢れ出す",
+  "reading": "あふれだす",
+  "meaning": "溢出、涌出（泪水等）"
+ },
+ {
+  "word": "涙",
+  "reading": "なみだ",
+  "meaning": "眼泪"
+ },
+ {
+  "word": "止まる",
+  "reading": "とまる",
+  "meaning": "停止、停住；とまらない＝止不住"
+ },
+ {
+  "word": "優しい",
+  "reading": "やさしい",
+  "meaning": "温柔、温和"
+ },
+ {
+  "word": "眩しい",
+  "reading": "まぶしい",
+  "meaning": "耀眼、炫目"
+ },
+ {
+  "word": "心強い",
+  "reading": "こころづよい",
+  "meaning": "令人安心的、心里有底的"
+ },
+ {
+  "word": "噛みしめる",
+  "reading": "かみしめる",
+  "meaning": "咬紧；细细品味、深切体会"
+ },
+ {
+  "word": "仲間",
+  "reading": "なかま",
+  "meaning": "伙伴、同伴"
+ },
+ {
+  "word": "重ねる",
+  "reading": "かさねる",
+  "meaning": "重叠；手を重ねる＝手叠着手"
+ },
+ {
+  "word": "夢見る",
+  "reading": "ゆめみる",
+  "meaning": "做梦、怀抱梦想"
+ },
+ {
+  "word": "大切",
+  "reading": "たいせつ",
+  "meaning": "重要、珍惜"
+ },
+ {
+  "word": "場所",
+  "reading": "ばしょ",
+  "meaning": "地方、场所"
+ },
+ {
+  "word": "固い",
+  "reading": "かたい",
+  "meaning": "坚硬；かたく閉ざされた＝紧紧封闭的"
+ },
+ {
+  "word": "最後",
+  "reading": "さいご",
+  "meaning": "最后"
+ },
+ {
+  "word": "扉",
+  "reading": "とびら",
+  "meaning": "门、扉（常比喻心门、命运之门）"
+ },
+ {
+  "word": "解き放つ",
+  "reading": "ときはなつ",
+  "meaning": "解开、释放"
+ },
+ {
+  "word": "地図",
+  "reading": "ちず",
+  "meaning": "地图"
+ },
+ {
+  "word": "繋ぎ合わせる",
+  "reading": "つなぎあわせる",
+  "meaning": "拼接、连结起来"
+ },
+ {
+  "word": "音楽",
+  "reading": "きずな",
+  "meaning": "音乐；此处创意唱作「キズナ（羁绊）」"
+ },
+ {
+  "word": "魔法",
+  "reading": "まほう",
+  "meaning": "魔法"
+ },
+ {
+  "word": "鍵",
+  "reading": "かぎ",
+  "meaning": "钥匙"
+ },
+ {
+  "word": "見つける",
+  "reading": "みつける",
+  "meaning": "找到、发现"
+ },
+ {
+  "word": "進む",
+  "reading": "すすむ",
+  "meaning": "前进；（时间）流逝"
+ },
+ {
+  "word": "いつの日にか",
+  "reading": "いつのひにか",
+  "meaning": "总有一天、有朝一日",
+  "note": "惯用表达"
+ },
+ {
+  "word": "手を合わせる",
+  "reading": "てをあわせる",
+  "meaning": "双手合十、手与手相贴",
+  "note": "惯用表达"
+ },
+ {
+  "word": "声をかけ合う",
+  "reading": "こえをかけあう",
+  "meaning": "互相搭话、彼此呼喊",
+  "note": "惯用表达"
+ }
+]

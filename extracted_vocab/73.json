@@ -1,0 +1,238 @@
+[
+ {
+  "word": "果てしなく",
+  "reading": "はてしなく",
+  "meaning": "无边无际地、没有尽头地"
+ },
+ {
+  "word": "続く",
+  "reading": "つづく",
+  "meaning": "延续、不断延伸"
+ },
+ {
+  "word": "決める",
+  "reading": "きめる",
+  "meaning": "决定、下定决心"
+ },
+ {
+  "word": "未来",
+  "reading": "みらい",
+  "meaning": "未来"
+ },
+ {
+  "word": "変える",
+  "reading": "かえる",
+  "meaning": "改变"
+ },
+ {
+  "word": "歌う",
+  "reading": "うたう",
+  "meaning": "歌唱、吟唱"
+ },
+ {
+  "word": "踏み出す",
+  "reading": "ふみだす",
+  "meaning": "迈出（第一步）、踏出"
+ },
+ {
+  "word": "ステージ",
+  "reading": "すてーじ",
+  "meaning": "舞台（歌词中「場所」唱作ステージ）"
+ },
+ {
+  "word": "気がする",
+  "reading": "きがする",
+  "meaning": "觉得、感觉（总觉得能站上舞台）",
+  "note": "惯用表达"
+ },
+ {
+  "word": "瞳",
+  "reading": "ひとみ",
+  "meaning": "瞳孔、眼眸"
+ },
+ {
+  "word": "奥",
+  "reading": "おく",
+  "meaning": "深处（眼眸深处）"
+ },
+ {
+  "word": "光",
+  "reading": "ひかり",
+  "meaning": "光、光芒"
+ },
+ {
+  "word": "思い",
+  "reading": "おもい",
+  "meaning": "思绪、心意、思念"
+ },
+ {
+  "word": "あふれ出す",
+  "reading": "あふれだす",
+  "meaning": "满溢而出、涌出"
+ },
+ {
+  "word": "向かう",
+  "reading": "むかう",
+  "meaning": "朝向、面向（朝着明天）"
+ },
+ {
+  "word": "負ける",
+  "reading": "まける",
+  "meaning": "输、认输、屈服"
+ },
+ {
+  "word": "ささやく",
+  "reading": "ささやく",
+  "meaning": "低语、呢喃、轻声细语"
+ },
+ {
+  "word": "こぼれ落ちる",
+  "reading": "こぼれおちる",
+  "meaning": "洒落、滚落（泪滴般）"
+ },
+ {
+  "word": "夢",
+  "reading": "ゆめ",
+  "meaning": "梦想、梦"
+ },
+ {
+  "word": "一滴",
+  "reading": "ひとしずく",
+  "meaning": "一滴（歌词中作梦的一滴）"
+ },
+ {
+  "word": "終わる",
+  "reading": "おわる",
+  "meaning": "结束、完结"
+ },
+ {
+  "word": "告げる",
+  "reading": "つげる",
+  "meaning": "宣告、告诉、传达"
+ },
+ {
+  "word": "めくるめく",
+  "reading": "めくるめく",
+  "meaning": "令人目眩的、飞速流转的"
+ },
+ {
+  "word": "季節",
+  "reading": "きせつ",
+  "meaning": "季节"
+ },
+ {
+  "word": "抜け出す",
+  "reading": "ぬけだす",
+  "meaning": "摆脱、冲出、挣脱出来"
+ },
+ {
+  "word": "泣きじゃくる",
+  "reading": "なきじゃくる",
+  "meaning": "抽泣不止、啜泣"
+ },
+ {
+  "word": "見つめる",
+  "reading": "みつめる",
+  "meaning": "注视、凝望"
+ },
+ {
+  "word": "届く",
+  "reading": "とどく",
+  "meaning": "到达、传达到"
+ },
+ {
+  "word": "絆",
+  "reading": "きずな",
+  "meaning": "羁绊、纽带（歌词中「音楽」唱作キズナ）"
+ },
+ {
+  "word": "奏でる",
+  "reading": "かなでる",
+  "meaning": "奏响、演奏"
+ },
+ {
+  "word": "走り始める",
+  "reading": "はしりはじめる",
+  "meaning": "开始奔跑"
+ },
+ {
+  "word": "失う",
+  "reading": "うしなう",
+  "meaning": "失去"
+ },
+ {
+  "word": "得る",
+  "reading": "える",
+  "meaning": "得到、获得"
+ },
+ {
+  "word": "願う",
+  "reading": "ねがう",
+  "meaning": "祈愿、期望"
+ },
+ {
+  "word": "涙",
+  "reading": "なみだ",
+  "meaning": "眼泪"
+ },
+ {
+  "word": "拭く",
+  "reading": "ふく",
+  "meaning": "擦拭、拭去"
+ },
+ {
+  "word": "瞬間",
+  "reading": "しゅんかん",
+  "meaning": "瞬间"
+ },
+ {
+  "word": "叫ぶ",
+  "reading": "さけぶ",
+  "meaning": "呼喊、呐喊"
+ },
+ {
+  "word": "忘れる",
+  "reading": "わすれる",
+  "meaning": "忘记"
+ },
+ {
+  "word": "誓う",
+  "reading": "ちかう",
+  "meaning": "发誓、宣誓"
+ },
+ {
+  "word": "五線譜",
+  "reading": "ごせんふ",
+  "meaning": "五线谱"
+ },
+ {
+  "word": "開く",
+  "reading": "ひらく",
+  "meaning": "翻开、打开（五线谱）"
+ },
+ {
+  "word": "止まる",
+  "reading": "とまる",
+  "meaning": "停下、停止"
+ },
+ {
+  "word": "果て",
+  "reading": "はて",
+  "meaning": "尽头、边际"
+ },
+ {
+  "word": "ひるむ",
+  "reading": "ひるむ",
+  "meaning": "畏缩、胆怯"
+ },
+ {
+  "word": "追いかける",
+  "reading": "おいかける",
+  "meaning": "追赶、追逐"
+ },
+ {
+  "word": "信じ続ける",
+  "reading": "しんじつづける",
+  "meaning": "一直相信、坚信不疑"
+ }
+]
