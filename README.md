@@ -130,45 +130,6 @@
 | | 第 19 课 | 田中老师会做菜 | 未学 |
 | | 第 20 课 | 上学真开心 | 未学 |
 
-## 公开版说明
-
-这是 **GitHub Pages 静态公开版**，学习进度只保存在**当前浏览器**的 `localStorage` 中：
-
-- 不同用户之间互不干扰
-- 同一用户换设备 / 清浏览器缓存后，进度不会自动同步
-- 需要备份时，请使用页面上的“导出进度” / “导入进度”，或“连接进度文件”
-
-> 如果你需要跨设备同步，请部署你自己的服务器同步版（`popipa单词.html` 保留在本地，未包含在公开仓库中）。
-
-## 本地运行
-
-直接用浏览器打开 `index.html` 即可；也可以启动任意静态服务器：
-
-```bash
-# 例如 Python
-python -m http.server 8000
-# 然后访问 http://localhost:8000
-```
-
-## 部署到 GitHub Pages
-
-1. 把本目录推送到 GitHub 仓库
-2. 仓库 `Settings → Pages → Source → Deploy from a branch`
-3. 选择 `main` 分支，目录选 `/ (root)`
-4. 等待几分钟即可访问
-
-仓库根目录已包含 `.nojekyll`，避免 Jekyll 处理影响静态文件。
-
-## 数据与脚本
-
-- `index.html`：单文件网页，内嵌词表与歌词数据
-- `lyrics/`：歌词源文件（Markdown）
-- `vocab.json`：全部单词数据
-- `extracted_vocab/`：按歌曲提取的单词 JSON
-- `audio/words/*.mp3`：日语单词发音（由 `edge-tts` 生成）
-
-> 维护用 Python 脚本（如 `gen_word_audio.py`、`merge_extracted_vocab.py`）仅保存在本地，不随仓库发布。
-
 ## 免责声明
 
 - 本项目中的歌词版权归原作者 / 版权方所有，仅供个人学习交流，请勿用于商业用途。
