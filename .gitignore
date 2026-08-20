@@ -1,5 +1,6 @@
 # Python
 __pycache__/
+*.py
 *.pyc
 
 # 本地备份 / 临时文件
