@@ -1,47 +1,229 @@
 [
-{"word":"今夜","reading":"こんや","meaning":"今夜、今晚"},
-{"word":"待ちきれない","reading":"まちきれない","meaning":"等不及、迫不及待","note":"惯用表达"},
-{"word":"究極","reading":"きゅうきょく","meaning":"终极、究极"},
-{"word":"大作戦","reading":"だいさくせん","meaning":"大作战、大计划"},
-{"word":"発表","reading":"はっぴょう","meaning":"发表、公布"},
-{"word":"鈴","reading":"すず","meaning":"铃铛"},
-{"word":"鳴らす","reading":"ならす","meaning":"敲响、使发出声音"},
-{"word":"衣装","reading":"いしょう","meaning":"服装、演出服"},
-{"word":"スペシャル","reading":"すぺしゃる","meaning":"特别的、特别的（special）"},
-{"word":"パーティー","reading":"ぱーてぃー","meaning":"派对、聚会"},
-{"word":"始まる","reading":"はじまる","meaning":"开始"},
-{"word":"特別","reading":"とくべつ","meaning":"特别、特殊"},
-{"word":"気持ち","reading":"きもち","meaning":"心情、感受"},
-{"word":"言葉","reading":"ことば","meaning":"话语、语言"},
-{"word":"声を合わせる","reading":"こえをあわせる","meaning":"齐声、声音合在一起","note":"惯用表达"},
-{"word":"世界","reading":"せかい","meaning":"世界"},
-{"word":"放つ","reading":"はなつ","meaning":"放出、释放（此处指把歌声传向世界）"},
-{"word":"会う","reading":"あう","meaning":"见面、相遇"},
-{"word":"繋がる","reading":"つながる","meaning":"相连、联系在一起"},
-{"word":"愛","reading":"あい","meaning":"爱"},
-{"word":"平和","reading":"へいわ","meaning":"和平"},
-{"word":"許す","reading":"ゆるす","meaning":"原谅、允许"},
-{"word":"クリパ","reading":"くりぱ","meaning":"圣诞派对（クリスマスパーティー的缩略）"},
-{"word":"モード","reading":"もーど","meaning":"模式（mode）"},
-{"word":"全開","reading":"ぜんかい","meaning":"全开、火力全开"},
-{"word":"はしゃぐ","reading":"はしゃぐ","meaning":"欢闹、嬉闹"},
-{"word":"ギター","reading":"ぎたー","meaning":"吉他"},
-{"word":"動き方","reading":"うごきかた","meaning":"动作方式、活动的样子"},
-{"word":"音楽","reading":"おんがく","meaning":"音乐"},
-{"word":"生まれる","reading":"うまれる","meaning":"诞生、产生"},
-{"word":"照れくさい","reading":"てれくさい","meaning":"害羞的、难为情的"},
-{"word":"聖夜","reading":"せいや","meaning":"圣夜（圣诞夜）"},
-{"word":"魔法","reading":"まほう","meaning":"魔法"},
-{"word":"借りる","reading":"かりる","meaning":"借、借助"},
-{"word":"変える","reading":"かえる","meaning":"改变"},
-{"word":"サンタクロース","reading":"さんたくろーす","meaning":"圣诞老人"},
-{"word":"トナカイ","reading":"となかい","meaning":"驯鹿"},
-{"word":"連れる","reading":"つれる","meaning":"带领、带着（人或动物同行）"},
-{"word":"言いそびれる","reading":"いいそびれる","meaning":"错过说出口的机会、没能说出口"},
-{"word":"贈る","reading":"おくる","meaning":"赠送、赠予"},
-{"word":"素直","reading":"すなお","meaning":"坦率、直率"},
-{"word":"リボン","reading":"りぼん","meaning":"缎带、蝴蝶结"},
-{"word":"結ぶ","reading":"むすぶ","meaning":"系、打结"},
-{"word":"枕元","reading":"まくらもと","meaning":"枕边、床头"},
-{"word":"出会い","reading":"であい","meaning":"相遇、邂逅"}
+ {
+  "word": "今夜",
+  "reading": "こんや",
+  "meaning": "今夜、今晚"
+ },
+ {
+  "word": "待ちきれない",
+  "reading": "まちきれない",
+  "meaning": "等不及、迫不及待",
+  "note": "惯用表达"
+ },
+ {
+  "word": "究極",
+  "reading": "きゅうきょく",
+  "meaning": "终极、究极"
+ },
+ {
+  "word": "大作戦",
+  "reading": "だいさくせん",
+  "meaning": "大作战、大计划"
+ },
+ {
+  "word": "発表",
+  "reading": "はっぴょう",
+  "meaning": "发表、公布"
+ },
+ {
+  "word": "鈴",
+  "reading": "すず",
+  "meaning": "铃铛"
+ },
+ {
+  "word": "鳴らす",
+  "reading": "ならす",
+  "meaning": "敲响、使发出声音"
+ },
+ {
+  "word": "衣装",
+  "reading": "いしょう",
+  "meaning": "服装、演出服"
+ },
+ {
+  "word": "スペシャル",
+  "reading": "すぺしゃる",
+  "meaning": "特别的、特别的（special）"
+ },
+ {
+  "word": "パーティー",
+  "reading": "ぱーてぃー",
+  "meaning": "派对、聚会"
+ },
+ {
+  "word": "始まる",
+  "reading": "はじまる",
+  "meaning": "开始"
+ },
+ {
+  "word": "特別",
+  "reading": "とくべつ",
+  "meaning": "特别、特殊"
+ },
+ {
+  "word": "気持ち",
+  "reading": "きもち",
+  "meaning": "心情、感受"
+ },
+ {
+  "word": "言葉",
+  "reading": "ことば",
+  "meaning": "话语、语言"
+ },
+ {
+  "word": "声を合わせる",
+  "reading": "こえをあわせる",
+  "meaning": "齐声、声音合在一起",
+  "note": "惯用表达"
+ },
+ {
+  "word": "世界",
+  "reading": "せかい",
+  "meaning": "世界"
+ },
+ {
+  "word": "放つ",
+  "reading": "はなつ",
+  "meaning": "放出、释放（此处指把歌声传向世界）"
+ },
+ {
+  "word": "会える",
+  "reading": "あえる",
+  "meaning": "相见、重逢（可能形）"
+ },
+ {
+  "word": "繋がる",
+  "reading": "つながる",
+  "meaning": "相连、联系在一起"
+ },
+ {
+  "word": "愛",
+  "reading": "あい",
+  "meaning": "爱"
+ },
+ {
+  "word": "平和",
+  "reading": "へいわ",
+  "meaning": "和平"
+ },
+ {
+  "word": "許す",
+  "reading": "ゆるす",
+  "meaning": "原谅、允许"
+ },
+ {
+  "word": "クリパ",
+  "reading": "くりぱ",
+  "meaning": "圣诞派对（クリスマスパーティー的缩略）"
+ },
+ {
+  "word": "モード",
+  "reading": "もーど",
+  "meaning": "模式（mode）"
+ },
+ {
+  "word": "全開",
+  "reading": "ぜんかい",
+  "meaning": "全开、火力全开"
+ },
+ {
+  "word": "はしゃぐ",
+  "reading": "はしゃぐ",
+  "meaning": "欢闹、嬉闹"
+ },
+ {
+  "word": "ギター",
+  "reading": "ぎたー",
+  "meaning": "吉他"
+ },
+ {
+  "word": "動き方",
+  "reading": "うごきかた",
+  "meaning": "动作方式、活动的样子"
+ },
+ {
+  "word": "音楽",
+  "reading": "おんがく",
+  "meaning": "音乐"
+ },
+ {
+  "word": "生まれる",
+  "reading": "うまれる",
+  "meaning": "诞生、产生"
+ },
+ {
+  "word": "照れくさい",
+  "reading": "てれくさい",
+  "meaning": "害羞的、难为情的"
+ },
+ {
+  "word": "聖夜",
+  "reading": "せいや",
+  "meaning": "圣夜（圣诞夜）"
+ },
+ {
+  "word": "魔法",
+  "reading": "まほう",
+  "meaning": "魔法"
+ },
+ {
+  "word": "借りる",
+  "reading": "かりる",
+  "meaning": "借、借助"
+ },
+ {
+  "word": "変える",
+  "reading": "かえる",
+  "meaning": "改变"
+ },
+ {
+  "word": "サンタクロース",
+  "reading": "さんたくろーす",
+  "meaning": "圣诞老人"
+ },
+ {
+  "word": "トナカイ",
+  "reading": "となかい",
+  "meaning": "驯鹿"
+ },
+ {
+  "word": "連れる",
+  "reading": "つれる",
+  "meaning": "带领、带着（人或动物同行）"
+ },
+ {
+  "word": "言いそびれる",
+  "reading": "いいそびれる",
+  "meaning": "错过说出口的机会、没能说出口"
+ },
+ {
+  "word": "贈る",
+  "reading": "おくる",
+  "meaning": "赠送、赠予"
+ },
+ {
+  "word": "素直",
+  "reading": "すなお",
+  "meaning": "坦率、直率"
+ },
+ {
+  "word": "リボン",
+  "reading": "りぼん",
+  "meaning": "缎带、蝴蝶结"
+ },
+ {
+  "word": "結ぶ",
+  "reading": "むすぶ",
+  "meaning": "系、打结"
+ },
+ {
+  "word": "枕元",
+  "reading": "まくらもと",
+  "meaning": "枕边、床头"
+ },
+ {
+  "word": "出会い",
+  "reading": "であい",
+  "meaning": "相遇、邂逅"
+ }
 ]

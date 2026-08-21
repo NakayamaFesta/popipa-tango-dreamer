@@ -1,71 +1,354 @@
 [
-  {"word":"目覚める","reading":"めざめる","meaning":"醒来、睡醒"},
-  {"word":"青春","reading":"せいしゅん","meaning":"青春、青春岁月"},
-  {"word":"街","reading":"まち","meaning":"街道、城镇"},
-  {"word":"風切る","reading":"かざきる","meaning":"迎风疾行、破风前进"},
-  {"word":"止まる","reading":"とまる","meaning":"停下、停止"},
-  {"word":"花","reading":"はな","meaning":"花"},
-  {"word":"香り","reading":"かおり","meaning":"香气、香味"},
-  {"word":"恋","reading":"こい","meaning":"恋爱、爱恋"},
-  {"word":"恋をする","reading":"こいをする","meaning":"坠入爱河、谈恋爱","note":"惯用表达"},
-  {"word":"場所","reading":"ばしょ","meaning":"场所、地方"},
-  {"word":"駆けつける","reading":"かけつける","meaning":"飞奔赶到、急忙跑来"},
-  {"word":"指","reading":"ゆび","meaning":"手指"},
-  {"word":"鳴らす","reading":"ならす","meaning":"弄响、打响（弹指）"},
-  {"word":"目を合わせる","reading":"めをあわせる","meaning":"对上视线、相视","note":"惯用表达"},
-  {"word":"合図","reading":"あいず","meaning":"信号、暗号"},
-  {"word":"約束","reading":"やくそく","meaning":"约定、诺言"},
-  {"word":"始める","reading":"はじめる","meaning":"开始"},
-  {"word":"道に迷う","reading":"みちにまよう","meaning":"迷路、迷失方向","note":"惯用表达"},
-  {"word":"会う","reading":"あう","meaning":"见面、相遇"},
-  {"word":"信じる","reading":"しんじる","meaning":"相信、信任"},
-  {"word":"心","reading":"こころ","meaning":"心、内心"},
-  {"word":"駆け抜ける","reading":"かけぬける","meaning":"奔跑着穿过、一路狂奔"},
-  {"word":"日々","reading":"ひび","meaning":"日子、每一天"},
-  {"word":"何度でも","reading":"なんどでも","meaning":"无论多少次"},
-  {"word":"全力","reading":"ぜんりょく","meaning":"全力、全部力量"},
-  {"word":"楽しむ","reading":"たのしむ","meaning":"享受、玩得开心"},
-  {"word":"ときめく","reading":"ときめく","meaning":"心动、心跳加速"},
-  {"word":"回る","reading":"まわる","meaning":"旋转、转动"},
-  {"word":"終わる","reading":"おわる","meaning":"结束、完结"},
-  {"word":"春","reading":"はる","meaning":"春天"},
-  {"word":"メリーゴーランド","reading":"めりーごーらんど","meaning":"旋转木马"},
-  {"word":"歌う","reading":"うたう","meaning":"唱歌、歌唱"},
-  {"word":"踊る","reading":"おどる","meaning":"跳舞、舞蹈"},
-  {"word":"甘い","reading":"あまい","meaning":"甜的、甜蜜的"},
-  {"word":"夕陽","reading":"ゆうひ","meaning":"夕阳、落日"},
-  {"word":"朝日","reading":"あさひ","meaning":"朝阳、旭日"},
-  {"word":"永遠","reading":"えいえん","meaning":"永远、永恒"},
-  {"word":"あっという間","reading":"あっというま","meaning":"转眼之间、一瞬间","note":"惯用表达"},
-  {"word":"サスティナブル","reading":"さすてぃなぶる","meaning":"可持续的（外来语 sustainable）"},
-  {"word":"愛","reading":"あい","meaning":"爱、爱情"},
-  {"word":"掲げる","reading":"かかげる","meaning":"高举、扬起（旗帜、主张）"},
-  {"word":"声","reading":"こえ","meaning":"声音、嗓音"},
-  {"word":"潜める","reading":"ひそめる","meaning":"压低、隐藏（声音）"},
-  {"word":"確かめる","reading":"たしかめる","meaning":"确认、弄清楚"},
-  {"word":"大丈夫","reading":"だいじょうぶ","meaning":"没关系、没问题"},
-  {"word":"生まれ変わる","reading":"うまれかわる","meaning":"转世重生、脱胎换骨"},
-  {"word":"気がする","reading":"きがする","meaning":"有这种感觉、觉得","note":"惯用表达"},
-  {"word":"繰り返す","reading":"くりかえす","meaning":"重复、反复"},
-  {"word":"目が醒める","reading":"めがさめる","meaning":"醒来、睡醒","note":"惯用表达"},
-  {"word":"手を繋ぐ","reading":"てをつなぐ","meaning":"牵手、手拉手","note":"惯用表达"},
-  {"word":"新しい","reading":"あたらしい","meaning":"新的、崭新的"},
-  {"word":"二人","reading":"ふたり","meaning":"两个人、两人"},
-  {"word":"くるくる","reading":"くるくる","meaning":"团团转、不停旋转的样子"},
-  {"word":"ティーカップ","reading":"てぃーかっぷ","meaning":"（游乐设施）旋转茶杯"},
-  {"word":"騒ぐ","reading":"さわぐ","meaning":"喧闹、热闹欢腾"},
-  {"word":"笑顔","reading":"えがお","meaning":"笑容、笑脸"},
-  {"word":"続く","reading":"つづく","meaning":"持续、延续"},
-  {"word":"消える","reading":"きえる","meaning":"消失、熄灭"},
-  {"word":"ゆらゆら","reading":"ゆらゆら","meaning":"摇摇晃晃、轻轻摇曳"},
-  {"word":"観覧車","reading":"かんらんしゃ","meaning":"摩天轮"},
-  {"word":"回す","reading":"まわす","meaning":"转动、使旋转"},
-  {"word":"腕立て","reading":"うでたて","meaning":"俯卧撑"},
-  {"word":"歯磨き","reading":"はみがき","meaning":"刷牙"},
-  {"word":"口喧嘩","reading":"くちげんか","meaning":"吵嘴、拌嘴"},
-  {"word":"鼓動","reading":"こどう","meaning":"心跳、搏动"},
-  {"word":"感じる","reading":"かんじる","meaning":"感受到、感觉"},
-  {"word":"ずっと","reading":"ずっと","meaning":"一直、始终"},
-  {"word":"きっと","reading":"きっと","meaning":"一定、必定"},
-  {"word":"いつまでも","reading":"いつまでも","meaning":"永远、到何时都"}
+ {
+  "word": "目覚める",
+  "reading": "めざめる",
+  "meaning": "醒来、睡醒"
+ },
+ {
+  "word": "青春",
+  "reading": "せいしゅん",
+  "meaning": "青春、青春岁月"
+ },
+ {
+  "word": "街",
+  "reading": "まち",
+  "meaning": "街道、城镇"
+ },
+ {
+  "word": "風切る",
+  "reading": "かざきる",
+  "meaning": "迎风疾行、破风前进"
+ },
+ {
+  "word": "止まる",
+  "reading": "とまる",
+  "meaning": "停下、停止"
+ },
+ {
+  "word": "花",
+  "reading": "はな",
+  "meaning": "花"
+ },
+ {
+  "word": "香り",
+  "reading": "かおり",
+  "meaning": "香气、香味"
+ },
+ {
+  "word": "恋",
+  "reading": "こい",
+  "meaning": "恋爱、爱恋"
+ },
+ {
+  "word": "恋をする",
+  "reading": "こいをする",
+  "meaning": "坠入爱河、谈恋爱",
+  "note": "惯用表达"
+ },
+ {
+  "word": "場所",
+  "reading": "ばしょ",
+  "meaning": "场所、地方"
+ },
+ {
+  "word": "駆けつける",
+  "reading": "かけつける",
+  "meaning": "飞奔赶到、急忙跑来"
+ },
+ {
+  "word": "指",
+  "reading": "ゆび",
+  "meaning": "手指"
+ },
+ {
+  "word": "鳴らす",
+  "reading": "ならす",
+  "meaning": "弄响、打响（弹指）"
+ },
+ {
+  "word": "目を合わせる",
+  "reading": "めをあわせる",
+  "meaning": "对上视线、相视",
+  "note": "惯用表达"
+ },
+ {
+  "word": "合図",
+  "reading": "あいず",
+  "meaning": "信号、暗号"
+ },
+ {
+  "word": "約束",
+  "reading": "やくそく",
+  "meaning": "约定、诺言"
+ },
+ {
+  "word": "始める",
+  "reading": "はじめる",
+  "meaning": "开始"
+ },
+ {
+  "word": "道に迷う",
+  "reading": "みちにまよう",
+  "meaning": "迷路、迷失方向",
+  "note": "惯用表达"
+ },
+ {
+  "word": "会える",
+  "reading": "あえる",
+  "meaning": "相见、重逢（可能形）"
+ },
+ {
+  "word": "信じる",
+  "reading": "しんじる",
+  "meaning": "相信、信任"
+ },
+ {
+  "word": "心",
+  "reading": "こころ",
+  "meaning": "心、内心"
+ },
+ {
+  "word": "駆け抜ける",
+  "reading": "かけぬける",
+  "meaning": "奔跑着穿过、一路狂奔"
+ },
+ {
+  "word": "日々",
+  "reading": "ひび",
+  "meaning": "日子、每一天"
+ },
+ {
+  "word": "何度でも",
+  "reading": "なんどでも",
+  "meaning": "无论多少次"
+ },
+ {
+  "word": "全力",
+  "reading": "ぜんりょく",
+  "meaning": "全力、全部力量"
+ },
+ {
+  "word": "楽しむ",
+  "reading": "たのしむ",
+  "meaning": "享受、玩得开心"
+ },
+ {
+  "word": "ときめく",
+  "reading": "ときめく",
+  "meaning": "心动、心跳加速"
+ },
+ {
+  "word": "回る",
+  "reading": "まわる",
+  "meaning": "旋转、转动"
+ },
+ {
+  "word": "終わる",
+  "reading": "おわる",
+  "meaning": "结束、完结"
+ },
+ {
+  "word": "春",
+  "reading": "はる",
+  "meaning": "春天"
+ },
+ {
+  "word": "メリーゴーランド",
+  "reading": "めりーごーらんど",
+  "meaning": "旋转木马"
+ },
+ {
+  "word": "歌う",
+  "reading": "うたう",
+  "meaning": "唱歌、歌唱"
+ },
+ {
+  "word": "踊る",
+  "reading": "おどる",
+  "meaning": "跳舞、舞蹈"
+ },
+ {
+  "word": "甘い",
+  "reading": "あまい",
+  "meaning": "甜的、甜蜜的"
+ },
+ {
+  "word": "夕陽",
+  "reading": "ゆうひ",
+  "meaning": "夕阳、落日"
+ },
+ {
+  "word": "朝日",
+  "reading": "あさひ",
+  "meaning": "朝阳、旭日"
+ },
+ {
+  "word": "永遠",
+  "reading": "えいえん",
+  "meaning": "永远、永恒"
+ },
+ {
+  "word": "あっという間",
+  "reading": "あっというま",
+  "meaning": "转眼之间、一瞬间",
+  "note": "惯用表达"
+ },
+ {
+  "word": "サスティナブル",
+  "reading": "さすてぃなぶる",
+  "meaning": "可持续的（外来语 sustainable）"
+ },
+ {
+  "word": "愛",
+  "reading": "あい",
+  "meaning": "爱、爱情"
+ },
+ {
+  "word": "掲げる",
+  "reading": "かかげる",
+  "meaning": "高举、扬起（旗帜、主张）"
+ },
+ {
+  "word": "声",
+  "reading": "こえ",
+  "meaning": "声音、嗓音"
+ },
+ {
+  "word": "潜める",
+  "reading": "ひそめる",
+  "meaning": "压低、隐藏（声音）"
+ },
+ {
+  "word": "確かめる",
+  "reading": "たしかめる",
+  "meaning": "确认、弄清楚"
+ },
+ {
+  "word": "大丈夫",
+  "reading": "だいじょうぶ",
+  "meaning": "没关系、没问题"
+ },
+ {
+  "word": "生まれ変わる",
+  "reading": "うまれかわる",
+  "meaning": "转世重生、脱胎换骨"
+ },
+ {
+  "word": "気がする",
+  "reading": "きがする",
+  "meaning": "有这种感觉、觉得",
+  "note": "惯用表达"
+ },
+ {
+  "word": "繰り返す",
+  "reading": "くりかえす",
+  "meaning": "重复、反复"
+ },
+ {
+  "word": "目が醒める",
+  "reading": "めがさめる",
+  "meaning": "醒来、睡醒",
+  "note": "惯用表达"
+ },
+ {
+  "word": "手を繋ぐ",
+  "reading": "てをつなぐ",
+  "meaning": "牵手、手拉手",
+  "note": "惯用表达"
+ },
+ {
+  "word": "新しい",
+  "reading": "あたらしい",
+  "meaning": "新的、崭新的"
+ },
+ {
+  "word": "二人",
+  "reading": "ふたり",
+  "meaning": "两个人、两人"
+ },
+ {
+  "word": "くるくる",
+  "reading": "くるくる",
+  "meaning": "团团转、不停旋转的样子"
+ },
+ {
+  "word": "ティーカップ",
+  "reading": "てぃーかっぷ",
+  "meaning": "（游乐设施）旋转茶杯"
+ },
+ {
+  "word": "騒ぐ",
+  "reading": "さわぐ",
+  "meaning": "喧闹、热闹欢腾"
+ },
+ {
+  "word": "笑顔",
+  "reading": "えがお",
+  "meaning": "笑容、笑脸"
+ },
+ {
+  "word": "続く",
+  "reading": "つづく",
+  "meaning": "持续、延续"
+ },
+ {
+  "word": "消える",
+  "reading": "きえる",
+  "meaning": "消失、熄灭"
+ },
+ {
+  "word": "ゆらゆら",
+  "reading": "ゆらゆら",
+  "meaning": "摇摇晃晃、轻轻摇曳"
+ },
+ {
+  "word": "観覧車",
+  "reading": "かんらんしゃ",
+  "meaning": "摩天轮"
+ },
+ {
+  "word": "回す",
+  "reading": "まわす",
+  "meaning": "转动、使旋转"
+ },
+ {
+  "word": "腕立て",
+  "reading": "うでたて",
+  "meaning": "俯卧撑"
+ },
+ {
+  "word": "歯磨き",
+  "reading": "はみがき",
+  "meaning": "刷牙"
+ },
+ {
+  "word": "口喧嘩",
+  "reading": "くちげんか",
+  "meaning": "吵嘴、拌嘴"
+ },
+ {
+  "word": "鼓動",
+  "reading": "こどう",
+  "meaning": "心跳、搏动"
+ },
+ {
+  "word": "感じる",
+  "reading": "かんじる",
+  "meaning": "感受到、感觉"
+ },
+ {
+  "word": "ずっと",
+  "reading": "ずっと",
+  "meaning": "一直、始终"
+ },
+ {
+  "word": "きっと",
+  "reading": "きっと",
+  "meaning": "一定、必定"
+ },
+ {
+  "word": "いつまでも",
+  "reading": "いつまでも",
+  "meaning": "永远、到何时都"
+ }
 ]
