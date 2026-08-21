@@ -2,7 +2,9 @@
 
 从 Poppin'Party 歌词里学日语单词的静态网页。
 
-🌐 在线体验：https://nakayamafesta.github.io/popipa-tango-dreamer/（已部署，欢迎大家测试）
+🌐 在线体验：https://nakayamafesta.github.io/popipa-tango-dreamer/
+
+已部署到GitHub，欢迎大家测试！
 
 ## 为什么做这个
 
